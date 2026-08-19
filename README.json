@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "AI ⁕ Breaches & Leaks ⁕ Basic OSINT ⁕ Recon ⁕ Productivity ⁕ OSINT Challenge ⁕ File Upload ⁕ Toolset ⁕ Search Engines ⁕ Whois ⁕ Source Codes ⁕ Domain / IP / DNS ⁕ Malware ⁕ Dataset ⁕ Geo ⁕ IoT ⁕ Darknet ⁕ Cryptocurrency ⁕ Username ⁕ Email ⁕ Phone ⁕ Whatsapp ⁕ Social Media ⁕ Facebook ⁕ Twitter ⁕ Youtube ⁕ Instagram ⁕ Reddit ⁕ LinkedIn ⁕ Google ⁕ Dork ⁕ Discord ⁕ Twitch ⁕ Telegram ⁕ Snapchat ⁕ TikTok ⁕ Steam ⁕ Clubhouse ⁕ Messaging Apps & Communication ⁕ News ⁕ Bot ⁕ Analytics ⁕ Blog ⁕ Throwaway Contact ⁕ ID Generator ⁕ Emulator ⁕ Hash Recovery ⁕ Downloader ⁕ Privacy / Security ⁕ Secure Communication ⁕ Resources ⁕ Weather ⁕ World Clock ⁕ Threat Intel ⁕ Other ⁕ Identity Resolution ⁕ Unified Search ⁕ People ⁕ Google CSE ⁕ Images and Audio ⁕ Video OSINT & Verification ⁕ Metadata & File Analysis ⁕ License Plate / VIN / Vehicle ⁕ Flight Tracker ⁕ Maritime ⁕ Open Directory ⁕ Radio ⁕ Resolvers ⁕ Real Estate ⁕ Corporation ⁕ Maps ⁕ Data Dump ⁕ Extremist / Far-Right ⁕ War / Military Conflict ⁕ Finance ⁕ Business ⁕ Police / LE / Fed ⁕ Informant ⁕ Resident Database ⁕ Public Records ⁕ Government ⁕ Vehicle / Transportation ⁕ Blockchain / Crypto Investigation ⁕ OSINT Frameworks & Browser Tools ⁕ Academic & Research Databases ⁕ OSINT Training / Learning ⁕ Bug Bounty / Security Research",
-      "items": [],
-      "title": "Index"
-    },
-    {
       "description": "Data Leak, scam, username, domain, social",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232181980,
             "language": "Python",
             "last_commit": "2026-08-12T12:00:48Z",
             "owner": "freedomofpress",
             "repo": "dangerzone",
-            "stars": 5696
+            "stars": 5698
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 681836129,
             "language": "Python",
             "last_commit": "2026-07-22T04:00:51Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2803
+            "stars": 2804
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776991286,
             "language": "Python",
             "last_commit": "2025-05-10T21:44:14Z",
             "owner": "chiasmod0n",
@@ -54,331 +52,347 @@
       "title": "Basic OSINT"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Garak",
+                  "description": "LLM vulnerability scanner for probing language models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 639097338,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T22:54:09Z",
+                    "owner": "NVIDIA",
+                    "repo": "garak",
+                    "stars": 8859
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NeMo Guardrails",
+                  "description": "Toolkit for adding programmable guardrails to LLM applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629494390,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:48:38Z",
+                    "owner": "NVIDIA-NeMo",
+                    "repo": "Guardrails",
+                    "stars": 6973
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AI Exploits",
+                  "description": "Collection of real-world AI/ML exploits and vulnerabilities.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 709957829,
+                    "language": "Python",
+                    "last_commit": "2024-10-23T20:40:54Z",
+                    "owner": "protectai",
+                    "repo": "ai-exploits",
+                    "stars": 1746
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rebuff",
+                  "description": "Prompt injection detector for LLM applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 631814434,
+                    "language": "TypeScript",
+                    "last_commit": "2024-08-07T23:35:48Z",
+                    "owner": "protectai",
+                    "repo": "rebuff",
+                    "stars": 1520
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLM Fuzzer",
+                  "description": "Fuzzing framework for finding vulnerabilities in LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643275640,
+                    "language": "Python",
+                    "last_commit": "2024-02-12T07:22:56Z",
+                    "owner": "mnns",
+                    "repo": "LLMFuzzer",
+                    "stars": 377
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyRIT",
+                  "description": "Python Risk Identification Toolkit for generative AI by Microsoft.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 1191146757,
+                    "language": null,
+                    "last_commit": "2026-03-25T01:18:52Z",
+                    "owner": "Azure",
+                    "repo": "PyRIT",
+                    "stars": 115
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "LLM Vulnerability Testing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CleverHans",
+                  "description": "Library for benchmarking ML systems' vulnerability to adversarial examples.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68254498,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-04-10T13:26:10Z",
+                    "owner": "cleverhans-lab",
+                    "repo": "cleverhans",
+                    "stars": 6449
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Adversarial Robustness Toolbox",
+                  "description": "Python library for adversarial machine learning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 125381318,
+                    "language": "Python",
+                    "last_commit": "2025-12-12T07:01:28Z",
+                    "owner": "Trusted-AI",
+                    "repo": "adversarial-robustness-toolbox",
+                    "stars": 6185
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TextAttack",
+                  "description": "Framework for adversarial attacks in NLP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 215173055,
+                    "language": "Python",
+                    "last_commit": "2026-08-15T12:32:20Z",
+                    "owner": "QData",
+                    "repo": "TextAttack",
+                    "stars": 3468
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Foolbox",
+                  "description": "Python toolbox to create adversarial examples.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94331757,
+                    "language": "Python",
+                    "last_commit": "2025-12-03T08:37:14Z",
+                    "owner": "bethgelab",
+                    "repo": "foolbox",
+                    "stars": 2972
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AI Red Teaming & Adversarial Testing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TensorFlow Privacy",
+                  "description": "Library for training ML models with differential privacy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162747292,
+                    "language": "Python",
+                    "last_commit": "2026-07-08T08:56:21Z",
+                    "owner": "tensorflow",
+                    "repo": "privacy",
+                    "stars": 2022
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Counterfit",
+                  "description": "Generic automation layer for assessing security of ML models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362276202,
+                    "language": "Python",
+                    "last_commit": "2025-07-18T13:29:17Z",
+                    "owner": "Azure",
+                    "repo": "counterfit",
+                    "stars": 936
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ML Privacy Meter",
+                  "description": "Tool to audit data privacy in statistical and ML algorithms.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 254225420,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-04-26T02:58:53Z",
+                    "owner": "privacytrustlab",
+                    "repo": "ml_privacy_meter",
+                    "stars": 723
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PrivacyRaven",
+                  "description": "Privacy testing library for deep learning systems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 266141010,
+                    "language": "Python",
+                    "last_commit": "2025-09-05T19:03:08Z",
+                    "owner": "trailofbits",
+                    "repo": "PrivacyRaven",
+                    "stars": 214
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AI Model Security & Privacy"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Netron",
+                  "description": "Visualizer for neural network, deep learning, and ML models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1198539,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T12:11:10Z",
+                    "owner": "lutzroeder",
+                    "repo": "netron",
+                    "stars": 33367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Manifold",
+                  "description": "Model-agnostic visual debugging tool for ML.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 169798869,
+                    "language": "JavaScript",
+                    "last_commit": "2025-02-05T23:02:02Z",
+                    "owner": "uber",
+                    "repo": "manifold",
+                    "stars": 1672
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AI/ML Model Analysis"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Model Card Toolkit",
+                  "description": "Streamlines model documentation for transparency.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 282271871,
+                    "language": "Python",
+                    "last_commit": "2023-07-26T12:05:00Z",
+                    "owner": "tensorflow",
+                    "repo": "model-card-toolkit",
+                    "stars": 452
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Model Signing",
+                  "description": "Supply chain security for ML models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 682178126,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T09:20:55Z",
+                    "owner": "sigstore",
+                    "repo": "model-transparency",
+                    "stars": 244
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AI/ML Dataset Security"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome ML for Cybersecurity",
+                  "description": "ML tools and resources for cybersecurity.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 76955905,
+                    "language": null,
+                    "last_commit": "2024-08-19T02:14:10Z",
+                    "owner": "jivoi",
+                    "repo": "awesome-ml-for-cybersecurity",
+                    "stars": 9299
+                  }
+                }
+              ],
+              "description": "⇧ Top",
+              "node_type": "group",
+              "title": "Research & Education"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM Security & AI Security"
+        }
+      ],
       "title": "AI"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "LLM Security & AI Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Garak",
-          "description": "LLM vulnerability scanner for probing language models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:54:09Z",
-            "owner": "NVIDIA",
-            "repo": "garak",
-            "stars": 8850
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NeMo Guardrails",
-          "description": "Toolkit for adding programmable guardrails to LLM applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:50:46Z",
-            "owner": "NVIDIA-NeMo",
-            "repo": "Guardrails",
-            "stars": 6970
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AI Exploits",
-          "description": "Collection of real-world AI/ML exploits and vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-23T20:40:54Z",
-            "owner": "protectai",
-            "repo": "ai-exploits",
-            "stars": 1746
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rebuff",
-          "description": "Prompt injection detector for LLM applications.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-08-07T23:35:48Z",
-            "owner": "protectai",
-            "repo": "rebuff",
-            "stars": 1520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLM Fuzzer",
-          "description": "Fuzzing framework for finding vulnerabilities in LLMs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-12T07:22:56Z",
-            "owner": "mnns",
-            "repo": "LLMFuzzer",
-            "stars": 377
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyRIT",
-          "description": "Python Risk Identification Toolkit for generative AI by Microsoft.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-03-25T01:18:52Z",
-            "owner": "Azure",
-            "repo": "PyRIT",
-            "stars": 115
-          }
-        }
-      ],
-      "title": "LLM Vulnerability Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CleverHans",
-          "description": "Library for benchmarking ML systems' vulnerability to adversarial examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-04-10T13:26:10Z",
-            "owner": "cleverhans-lab",
-            "repo": "cleverhans",
-            "stars": 6449
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Robustness Toolbox",
-          "description": "Python library for adversarial machine learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T07:01:28Z",
-            "owner": "Trusted-AI",
-            "repo": "adversarial-robustness-toolbox",
-            "stars": 6184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TextAttack",
-          "description": "Framework for adversarial attacks in NLP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T12:32:20Z",
-            "owner": "QData",
-            "repo": "TextAttack",
-            "stars": 3468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Foolbox",
-          "description": "Python toolbox to create adversarial examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-03T08:37:14Z",
-            "owner": "bethgelab",
-            "repo": "foolbox",
-            "stars": 2972
-          }
-        }
-      ],
-      "title": "AI Red Teaming & Adversarial Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TensorFlow Privacy",
-          "description": "Library for training ML models with differential privacy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-08T08:56:21Z",
-            "owner": "tensorflow",
-            "repo": "privacy",
-            "stars": 2022
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Counterfit",
-          "description": "Generic automation layer for assessing security of ML models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-18T13:29:17Z",
-            "owner": "Azure",
-            "repo": "counterfit",
-            "stars": 936
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ML Privacy Meter",
-          "description": "Tool to audit data privacy in statistical and ML algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-04-26T02:58:53Z",
-            "owner": "privacytrustlab",
-            "repo": "ml_privacy_meter",
-            "stars": 723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PrivacyRaven",
-          "description": "Privacy testing library for deep learning systems.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-09-05T19:03:08Z",
-            "owner": "trailofbits",
-            "repo": "PrivacyRaven",
-            "stars": 214
-          }
-        }
-      ],
-      "title": "AI Model Security & Privacy"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Netron",
-          "description": "Visualizer for neural network, deep learning, and ML models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T12:11:10Z",
-            "owner": "lutzroeder",
-            "repo": "netron",
-            "stars": 33362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Manifold",
-          "description": "Model-agnostic visual debugging tool for ML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T23:02:02Z",
-            "owner": "uber",
-            "repo": "manifold",
-            "stars": 1672
-          }
-        }
-      ],
-      "title": "AI/ML Model Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Model Card Toolkit",
-          "description": "Streamlines model documentation for transparency.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-07-26T12:05:00Z",
-            "owner": "tensorflow",
-            "repo": "model-card-toolkit",
-            "stars": 452
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model Signing",
-          "description": "Supply chain security for ML models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T09:20:55Z",
-            "owner": "sigstore",
-            "repo": "model-transparency",
-            "stars": 244
-          }
-        }
-      ],
-      "title": "AI/ML Dataset Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome ML for Cybersecurity",
-          "description": "ML tools and resources for cybersecurity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-19T02:14:10Z",
-            "owner": "jivoi",
-            "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9298
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ML Security Reading List",
-          "description": "Curated reading list for AI/ML security.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Trail of Bits AI Security",
-          "description": "Best practices for AI/ML security.",
-          "children": []
-        }
-      ],
-      "title": "Research & Education"
-    },
-    {
-      "description": "Tools for Image/Audio/Video/Doc reconnaissance",
+      "description": "Tools for Image/Audio/Video/Doc reconnaissance\n⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -387,11 +401,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658364446,
             "language": "TypeScript",
             "last_commit": "2026-08-11T09:01:27Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34536
+            "stars": 34539
           }
         },
         {
@@ -401,11 +416,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252813491,
             "language": "Go",
             "last_commit": "2026-08-17T12:41:59Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30588
+            "stars": 30598
           }
         },
         {
@@ -415,11 +431,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4165675,
             "language": "Python",
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21183
+            "stars": 21191
           }
         },
         {
@@ -429,6 +446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326228917,
             "language": "Go",
             "last_commit": "2026-08-17T12:24:10Z",
             "owner": "projectdiscovery",
@@ -443,6 +461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156681830,
             "language": "Go",
             "last_commit": "2026-07-19T15:11:15Z",
             "owner": "ffuf",
@@ -457,11 +476,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140457254,
             "language": "Go",
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14991
+            "stars": 14994
           }
         },
         {
@@ -471,11 +491,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127519518,
             "language": "Go",
             "last_commit": "2026-08-12T14:22:49Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14226
+            "stars": 14231
           }
         },
         {
@@ -485,11 +506,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26639347,
             "language": "Go",
             "last_commit": "2026-08-17T22:02:56Z",
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 13998
+            "stars": 13997
           }
         },
         {
@@ -499,11 +521,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127466226,
             "language": "Python",
             "last_commit": "2026-08-07T12:50:36Z",
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 13120
+            "stars": 13121
           }
         },
         {
@@ -513,11 +536,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267713284,
             "language": "Go",
-            "last_commit": "2026-08-15T17:21:03Z",
+            "last_commit": "2026-08-19T10:13:19Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10287
+            "stars": 10290
           }
         },
         {
@@ -527,6 +551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289516116,
             "language": "Rust",
             "last_commit": "2026-04-15T12:31:40Z",
             "owner": "epi052",
@@ -541,11 +566,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325671936,
             "language": "Shell",
             "last_commit": "2026-08-12T12:12:36Z",
             "owner": "six2dez",
             "repo": "reconftw",
-            "stars": 7996
+            "stars": 7998
           }
         },
         {
@@ -555,6 +581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156946744,
             "language": "Go",
             "last_commit": "2026-08-08T14:26:33Z",
             "owner": "j3ssie",
@@ -569,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123440315,
             "language": "Python",
             "last_commit": "2025-02-20T10:52:16Z",
             "owner": "s0md3v",
@@ -583,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178254323,
             "language": "Python",
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
@@ -597,11 +626,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242879301,
             "language": "Go",
             "last_commit": "2026-03-20T18:36:42Z",
             "owner": "lc",
             "repo": "gau",
-            "stars": 5065
+            "stars": 5066
           }
         },
         {
@@ -611,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118829957,
             "language": "Go",
             "last_commit": "2024-05-01T05:40:44Z",
             "owner": "tomnomnom",
@@ -625,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23961941,
             "language": "Python",
             "last_commit": "2026-08-05T03:17:41Z",
             "owner": "ivre",
@@ -639,11 +671,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133257682,
             "language": "Python",
             "last_commit": "2026-04-21T21:23:15Z",
             "owner": "evyatarmeged",
             "repo": "Raccoon",
-            "stars": 3993
+            "stars": 3994
           }
         },
         {
@@ -653,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181352945,
             "language": "Rust",
             "last_commit": "2026-07-28T13:06:33Z",
             "owner": "Findomain",
@@ -667,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105561188,
             "language": "C#",
             "last_commit": "2022-12-08T09:31:55Z",
             "owner": "ElevenPaths",
@@ -681,6 +716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437729997,
             "language": "Python",
             "last_commit": "2022-11-23T18:23:24Z",
             "owner": "fullhunt",
@@ -695,11 +731,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255061694,
             "language": "Python",
             "last_commit": "2026-03-07T16:16:48Z",
             "owner": "devanshbatham",
             "repo": "ParamSpider",
-            "stars": 3153
+            "stars": 3155
           }
         },
         {
@@ -709,6 +746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 903347609,
             "language": "Shell",
             "last_commit": "2026-02-24T19:06:08Z",
             "owner": "s-r-e-e-r-a-j",
@@ -720,7 +758,7 @@
       "title": "Recon"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -729,11 +767,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120834196,
             "language": "TypeScript",
             "last_commit": "2026-08-17T06:07:45Z",
             "owner": "ninoseki",
             "repo": "mitaka",
-            "stars": 1839
+            "stars": 1840
           }
         },
         {
@@ -743,6 +782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575044074,
             "language": "Go",
             "last_commit": "2026-06-16T06:07:37Z",
             "owner": "seekr-osint",
@@ -757,6 +797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138818474,
             "language": "Shell",
             "last_commit": "2026-04-17T23:38:03Z",
             "owner": "bad-antics",
@@ -768,7 +809,7 @@
       "title": "TOOLSET"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -777,11 +818,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75189212,
             "language": null,
             "last_commit": "2026-08-18T00:32:33Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28158
+            "stars": 28166
           }
         },
         {
@@ -791,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192129633,
             "language": "Python",
             "last_commit": "2023-06-30T01:31:01Z",
             "owner": "sinwindie",
@@ -805,6 +848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197458822,
             "language": null,
             "last_commit": "2025-06-29T07:34:16Z",
             "owner": "subeeshvasu",
@@ -819,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122914475,
             "language": null,
             "last_commit": "2024-08-03T12:41:05Z",
             "owner": "Ph055a",
@@ -833,6 +878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293267104,
             "language": "HTML",
             "last_commit": "2026-08-14T04:49:32Z",
             "owner": "oryon-osint",
@@ -847,6 +893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117763052,
             "language": null,
             "last_commit": "2020-04-07T23:40:52Z",
             "owner": "Sprp77",
@@ -858,7 +905,7 @@
       "title": "RESOURCES"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -867,11 +914,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77276660,
             "language": "Python",
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10903
+            "stars": 10905
           }
         },
         {
@@ -881,11 +929,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162200234,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T00:03:35Z",
+            "last_commit": "2026-08-19T12:05:09Z",
             "owner": "OpenCTI-Platform",
             "repo": "opencti",
-            "stars": 9827
+            "stars": 9828
           }
         },
         {
@@ -895,11 +944,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231109256,
             "language": "Python",
             "last_commit": "2026-08-18T07:06:12Z",
             "owner": "intelowlproject",
             "repo": "IntelOwl",
-            "stars": 4673
+            "stars": 4675
           }
         },
         {
@@ -909,6 +959,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47927876,
             "language": "Python",
             "last_commit": "2026-08-17T08:54:26Z",
             "owner": "yeti-platform",
@@ -923,6 +974,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55239337,
             "language": null,
             "last_commit": "2024-12-16T15:15:17Z",
             "owner": "aptnotes",
@@ -937,18 +989,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189243571,
             "language": "REXX",
-            "last_commit": "2026-08-18T23:11:50Z",
+            "last_commit": "2026-08-19T11:14:46Z",
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
-            "stars": 741
+            "stars": 740
           }
         }
       ],
       "title": "THREAT INTEL"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -957,11 +1010,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-18T05:34:09Z",
+            "last_commit": "2026-08-19T05:34:57Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89770
+            "stars": 89797
           }
         },
         {
@@ -971,11 +1025,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489384246,
             "language": "Python",
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7719
+            "stars": 7731
           }
         },
         {
@@ -985,6 +1040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240491830,
             "language": "Python",
             "last_commit": "2026-07-30T06:34:29Z",
             "owner": "snooppr",
@@ -999,11 +1055,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079089186,
             "language": "Python",
-            "last_commit": "2026-08-18T07:34:42Z",
+            "last_commit": "2026-08-19T04:55:18Z",
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3233
+            "stars": 3237
           }
         },
         {
@@ -1013,30 +1070,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369583524,
             "language": "Python",
             "last_commit": "2023-09-30T04:43:12Z",
             "owner": "thewhiteh4t",
             "repo": "nexfil",
             "stars": 2606
           }
-        },
-        {
-          "node_type": "item",
-          "title": "UserRecon",
-          "description": "Find usernames across over 75 social networks.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Profil3r",
-          "description": "OSINT tool to find a person's profile across social networks.",
-          "children": []
         }
       ],
       "title": "USERNAME"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1045,11 +1091,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300592907,
             "language": "Python",
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19383
+            "stars": 19386
           }
         },
         {
@@ -1059,11 +1106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299054922,
             "language": "Go",
             "last_commit": "2024-02-02T13:10:43Z",
             "owner": "alpkeskin",
             "repo": "mosint",
-            "stars": 5992
+            "stars": 5993
           }
         },
         {
@@ -1073,11 +1121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079089186,
             "language": "Python",
-            "last_commit": "2026-08-18T07:34:42Z",
+            "last_commit": "2026-08-19T04:55:18Z",
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3233
+            "stars": 3237
           }
         },
         {
@@ -1087,6 +1136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176174380,
             "language": "Python",
             "last_commit": "2024-07-26T21:09:58Z",
             "owner": "martinvigo",
@@ -1101,6 +1151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182323091,
             "language": "Python",
             "last_commit": "2025-08-14T14:29:48Z",
             "owner": "Ekultek",
@@ -1115,6 +1166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187035044,
             "language": "Python",
             "last_commit": "2024-11-26T12:52:16Z",
             "owner": "m8sec",
@@ -1129,11 +1181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190042776,
             "language": "Python",
             "last_commit": "2020-03-26T16:41:38Z",
             "owner": "sham00n",
             "repo": "buster",
-            "stars": 1383
+            "stars": 1384
           }
         },
         {
@@ -1143,24 +1196,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398259833,
             "language": "Python",
             "last_commit": "2026-05-24T16:35:26Z",
             "owner": "sharsil",
             "repo": "mailcat",
             "stars": 930
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Infoga - 404",
-          "description": null,
-          "children": []
         }
       ],
       "title": "EMAIL"
     },
     {
-      "description": "",
+      "description": "⇧ Top\n⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1169,11 +1217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628192229,
             "language": "Python",
             "last_commit": "2024-01-11T15:36:46Z",
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 14849
+            "stars": 14860
           }
         },
         {
@@ -1183,18 +1232,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262434885,
             "language": "Python",
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
             "stars": 2069
           }
+        },
+        {
+          "node_type": "item",
+          "title": "trape",
+          "description": "People tracker on the Internet: OSINT analysis and research tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109004193,
+            "language": "Python",
+            "last_commit": "2024-06-20T19:04:00Z",
+            "owner": "jofpin",
+            "repo": "trape",
+            "stars": 8967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social-Media-OSINT-Tools-Collection",
+          "description": "A collection of most useful osint tools for SOCINT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643174512,
+            "language": null,
+            "last_commit": "2026-01-30T14:43:22Z",
+            "owner": "osintambition",
+            "repo": "Social-Media-OSINT-Tools-Collection",
+            "stars": 1946
+          }
         }
       ],
       "title": "PHONE"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1203,11 +1283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192928781,
             "language": "Nim",
             "last_commit": "2026-08-19T01:16:29Z",
             "owner": "zedeus",
             "repo": "nitter",
-            "stars": 13454
+            "stars": 13455
           }
         },
         {
@@ -1217,18 +1298,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192928781,
             "language": "Nim",
             "last_commit": "2026-08-19T01:16:29Z",
             "owner": "zedeus",
             "repo": "nitter",
-            "stars": 13454
+            "stars": 13455
           }
         }
       ],
       "title": "TWITTER"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1237,6 +1319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100651222,
             "language": "Python",
             "last_commit": "2023-04-06T18:32:52Z",
             "owner": "pushshift",
@@ -1251,6 +1334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64739447,
             "language": "Python",
             "last_commit": "2017-07-19T08:43:25Z",
             "owner": "N2ITN",
@@ -1262,7 +1346,7 @@
       "title": "REDDIT"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1271,11 +1355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279177733,
             "language": "Python",
             "last_commit": "2024-08-03T16:48:40Z",
             "owner": "obheda12",
             "repo": "GitDorker",
-            "stars": 2575
+            "stars": 2576
           }
         },
         {
@@ -1285,6 +1370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255571225,
             "language": null,
             "last_commit": "2022-04-11T03:17:50Z",
             "owner": "robyfirnandoyusuf",
@@ -1296,7 +1382,7 @@
       "title": "DORK"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1305,11 +1391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190823163,
             "language": "Python",
             "last_commit": "2025-08-25T12:00:48Z",
             "owner": "Datalux",
             "repo": "Osintgram",
-            "stars": 14033
+            "stars": 14039
           }
         },
         {
@@ -1319,11 +1406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238085528,
             "language": "Python",
             "last_commit": "2024-12-05T21:46:49Z",
             "owner": "megadose",
             "repo": "toutatis",
-            "stars": 4204
+            "stars": 4206
           }
         },
         {
@@ -1333,11 +1421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441298162,
             "language": "Python",
             "last_commit": "2024-08-17T18:35:46Z",
             "owner": "0x0be",
             "repo": "yesitsme",
-            "stars": 3040
+            "stars": 3039
           }
         },
         {
@@ -1347,11 +1436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219472971,
             "language": "Python",
             "last_commit": "2024-02-01T20:50:43Z",
             "owner": "th3unkn0n",
             "repo": "osi.ig",
-            "stars": 1549
+            "stars": 1548
           }
         },
         {
@@ -1361,6 +1451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270755692,
             "language": "Python",
             "last_commit": "2026-06-28T22:07:56Z",
             "owner": "yezz123",
@@ -1375,6 +1466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1221979568,
             "language": "Python",
             "last_commit": "2026-06-20T23:19:28Z",
             "owner": "subzeroid",
@@ -1389,6 +1481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1219461456,
             "language": "Python",
             "last_commit": "2026-08-15T23:32:53Z",
             "owner": "subzeroid",
@@ -1400,17 +1493,7 @@
       "title": "INSTAGRAM"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "MESSAGING APPS & COMMUNICATION"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "IMAGES and Audio"
-    },
-    {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1419,11 +1502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14434734,
             "language": "Rust",
             "last_commit": "2026-08-11T15:27:34Z",
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14237
+            "stars": 14241
           }
         },
         {
@@ -1433,6 +1517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105561188,
             "language": "C#",
             "last_commit": "2022-12-08T09:31:55Z",
             "owner": "ElevenPaths",
@@ -1447,6 +1532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40654736,
             "language": "Python",
             "last_commit": "2024-03-21T03:45:48Z",
             "owner": "laramies",
@@ -1458,7 +1544,7 @@
       "title": "METADATA & FILE ANALYSIS"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1467,6 +1553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206690330,
             "language": "JavaScript",
             "last_commit": "2025-02-28T15:41:48Z",
             "owner": "eth0izzle",
@@ -1481,6 +1568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197129669,
             "language": "Go",
             "last_commit": "2026-02-10T00:32:15Z",
             "owner": "tillson",
@@ -1495,6 +1583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153084655,
             "language": "Python",
             "last_commit": "2019-05-05T15:49:59Z",
             "owner": "s0md3v",
@@ -1506,12 +1595,7 @@
       "title": "SOURCE CODES"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "DOMAIN / IP / DNS"
-    },
-    {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1520,11 +1604,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15776012,
             "language": "Python",
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13304
+            "stars": 13305
           }
         },
         {
@@ -1534,6 +1619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55239337,
             "language": null,
             "last_commit": "2024-12-16T15:15:17Z",
             "owner": "aptnotes",
@@ -1548,6 +1634,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 111840859,
             "language": null,
             "last_commit": "2022-11-10T21:07:30Z",
             "owner": "offensive-security",
@@ -1559,7 +1646,7 @@
       "title": "MALWARE"
     },
     {
-      "description": "",
+      "description": "⇧ Top",
       "items": [
         {
           "node_type": "item",
@@ -1568,6 +1655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962685604,
             "language": "Python",
             "last_commit": "2026-08-07T23:51:41Z",
             "owner": "apurvsinghgautam",
@@ -1582,11 +1670,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91573963,
             "language": "Python",
             "last_commit": "2026-07-28T23:11:26Z",
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4632
+            "stars": 4635
           }
         },
         {
@@ -1596,510 +1685,540 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55757553,
             "language": "Go",
             "last_commit": "2024-08-09T23:55:59Z",
             "owner": "s-rah",
             "repo": "onionscan",
-            "stars": 3280
+            "stars": 3281
           }
-        },
-        {
-          "node_type": "item",
-          "title": "OnionLinksV3",
-          "description": "List of onion site (Forum,Chats,Markets)",
-          "children": []
         }
       ],
       "title": "DARKNET"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mitaka",
+              "description": "Browser extension for OSINT searches on selected text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120834196,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T06:07:45Z",
+                "owner": "ninoseki",
+                "repo": "mitaka",
+                "stars": 1840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSINT-SPY",
+              "description": "Chrome extension for performing OSINT searches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99078986,
+                "language": "Python",
+                "last_commit": "2023-10-23T09:13:23Z",
+                "owner": "SharadKumar97",
+                "repo": "OSINT-SPY",
+                "stars": 1539
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Extensions"
+        }
+      ],
       "title": "OSINT FRAMEWORKS & BROWSER TOOLS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Mitaka",
-          "description": "Browser extension for OSINT searches on selected text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T06:07:45Z",
-            "owner": "ninoseki",
-            "repo": "mitaka",
-            "stars": 1839
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XSStrike",
+              "description": "Advanced XSS detection and exploitation suite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95419982,
+                "language": "Python",
+                "last_commit": "2025-04-26T08:47:06Z",
+                "owner": "s0md3v",
+                "repo": "XSStrike",
+                "stars": 15144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Commix",
+              "description": "Automated OS command injection and exploitation tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32572504,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:51:56Z",
+                "owner": "commixproject",
+                "repo": "commix",
+                "stars": 5820
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NoSQLMap",
+              "description": "Automated NoSQL database enumeration and exploitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13067823,
+                "language": "Python",
+                "last_commit": "2026-07-28T02:28:11Z",
+                "owner": "codingo",
+                "repo": "NoSQLMap",
+                "stars": 3343
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Security Testing"
         },
         {
-          "node_type": "item",
-          "title": "OSINT-SPY",
-          "description": "Chrome extension for performing OSINT searches.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-23T09:13:23Z",
-            "owner": "SharadKumar97",
-            "repo": "OSINT-SPY",
-            "stars": 1540
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amass",
+              "description": "In-depth attack surface mapping and asset discovery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140457254,
+                "language": "Go",
+                "last_commit": "2026-07-19T05:16:40Z",
+                "owner": "owasp-amass",
+                "repo": "amass",
+                "stars": 14994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Subfinder",
+              "description": "Fast passive subdomain enumeration tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127519518,
+                "language": "Go",
+                "last_commit": "2026-08-12T14:22:49Z",
+                "owner": "projectdiscovery",
+                "repo": "subfinder",
+                "stars": 14231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sublist3r",
+              "description": "Fast subdomains enumeration tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48010677,
+                "language": "Python",
+                "last_commit": "2024-08-02T00:00:30Z",
+                "owner": "aboul3la",
+                "repo": "Sublist3r",
+                "stars": 11021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knock",
+              "description": "Python tool to enumerate subdomains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16733466,
+                "language": "Python",
+                "last_commit": "2026-02-19T11:17:32Z",
+                "owner": "guelfoweb",
+                "repo": "knockpy",
+                "stars": 4180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Assetfinder",
+              "description": "Find domains and subdomains related to a given domain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193392376,
+                "language": "Go",
+                "last_commit": "2024-06-07T17:08:47Z",
+                "owner": "tomnomnom",
+                "repo": "assetfinder",
+                "stars": 3662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MassDNS",
+              "description": "High-performance DNS stub resolver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61796725,
+                "language": "C",
+                "last_commit": "2026-04-15T21:16:50Z",
+                "owner": "blechschmidt",
+                "repo": "massdns",
+                "stars": 3629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DNSRecon",
+              "description": "DNS enumeration and scanning tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1173123,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:51:22Z",
+                "owner": "darkoperator",
+                "repo": "dnsrecon",
+                "stars": 3059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fierce",
+              "description": "DNS reconnaissance tool for locating non-contiguous IP space.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57169020,
+                "language": "Python",
+                "last_commit": "2024-08-28T14:35:58Z",
+                "owner": "mschwager",
+                "repo": "fierce",
+                "stars": 1805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shuffledns",
+              "description": "Wrapper around massdns for subdomain bruteforcing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243079190,
+                "language": "Go",
+                "last_commit": "2026-08-17T19:36:48Z",
+                "owner": "projectdiscovery",
+                "repo": "shuffledns",
+                "stars": 1661
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reconnaissance & Enumeration"
         },
         {
-          "node_type": "item",
-          "title": "Gotanda",
-          "description": "Browser extension for OSINT and security investigations.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nuclei",
+              "description": "Fast vulnerability scanner based on YAML templates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252813491,
+                "language": "Go",
+                "last_commit": "2026-08-17T12:41:59Z",
+                "owner": "projectdiscovery",
+                "repo": "nuclei",
+                "stars": 30598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nikto",
+              "description": "Web server scanner for dangerous files and outdated software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6836299,
+                "language": "Perl",
+                "last_commit": "2026-08-18T04:01:08Z",
+                "owner": "sullo",
+                "repo": "nikto",
+                "stars": 10667
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerability Scanning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SecLists",
+              "description": "Collection of multiple types of lists for security assessments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3482588,
+                "language": "PHP",
+                "last_commit": "2026-08-19T10:33:47Z",
+                "owner": "danielmiessler",
+                "repo": "SecLists",
+                "stars": 72927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ffuf",
+              "description": "Fast web fuzzer written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156681830,
+                "language": "Go",
+                "last_commit": "2026-07-19T15:11:15Z",
+                "owner": "ffuf",
+                "repo": "ffuf",
+                "stars": 16545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dirsearch",
+              "description": "Web path scanner and directory brute-forcing tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9774482,
+                "language": "Python",
+                "last_commit": "2026-08-16T03:28:04Z",
+                "owner": "maurosoria",
+                "repo": "dirsearch",
+                "stars": 14643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gobuster",
+              "description": "Directory/file, DNS and VHost busting tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26639347,
+                "language": "Go",
+                "last_commit": "2026-08-17T22:02:56Z",
+                "owner": "OJ",
+                "repo": "gobuster",
+                "stars": 13997
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Feroxbuster",
+              "description": "Fast, simple, recursive content discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289516116,
+                "language": "Rust",
+                "last_commit": "2026-04-15T12:31:40Z",
+                "owner": "epi052",
+                "repo": "feroxbuster",
+                "stars": 8019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wfuzz",
+              "description": "Web application fuzzer for brute-forcing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25605151,
+                "language": "Python",
+                "last_commit": "2026-01-21T15:31:40Z",
+                "owner": "xmendez",
+                "repo": "wfuzz",
+                "stars": 6555
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Content Discovery & Fuzzing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arjun",
+              "description": "HTTP parameter discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123440315,
+                "language": "Python",
+                "last_commit": "2025-02-20T10:52:16Z",
+                "owner": "s0md3v",
+                "repo": "Arjun",
+                "stars": 6380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kiterunner",
+              "description": "API endpoint and content discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355407223,
+                "language": "Go",
+                "last_commit": "2026-07-10T04:51:01Z",
+                "owner": "assetnote",
+                "repo": "kiterunner",
+                "stars": 3239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ParamSpider",
+              "description": "Mining parameters from dark corners of web archives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255061694,
+                "language": "Python",
+                "last_commit": "2026-03-07T16:16:48Z",
+                "owner": "devanshbatham",
+                "repo": "ParamSpider",
+                "stars": 3155
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API Security Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jadx",
+              "description": "Dex to Java decompiler for Android applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8859474,
+                "language": "Java",
+                "last_commit": "2026-08-05T19:19:01Z",
+                "owner": "skylot",
+                "repo": "jadx",
+                "stars": 50128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobSF",
+              "description": "Automated mobile application security testing framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30102273,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T21:31:57Z",
+                "owner": "MobSF",
+                "repo": "Mobile-Security-Framework-MobSF",
+                "stars": 21612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Objection",
+              "description": "Runtime mobile exploration toolkit powered by Frida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95770373,
+                "language": "Python",
+                "last_commit": "2026-07-23T13:40:22Z",
+                "owner": "sensepost",
+                "repo": "objection",
+                "stars": 9327
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Faraday",
+              "description": "Collaborative penetration test and vulnerability management platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14160461,
+                "language": "Python",
+                "last_commit": "2026-07-24T15:40:41Z",
+                "owner": "infobyte",
+                "repo": "faraday",
+                "stars": 6690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reconness",
+              "description": "Web application for continuous reconnaissance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229349109,
+                "language": "C#",
+                "last_commit": "2026-08-11T01:30:06Z",
+                "owner": "reconness",
+                "repo": "reconness",
+                "stars": 326
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reporting & Collaboration"
         }
       ],
-      "title": "Browser Extensions"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "BUG BOUNTY / SECURITY RESEARCH"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "XSStrike",
-          "description": "Advanced XSS detection and exploitation suite.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-26T08:47:06Z",
-            "owner": "s0md3v",
-            "repo": "XSStrike",
-            "stars": 15143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Commix",
-          "description": "Automated OS command injection and exploitation tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:14:39Z",
-            "owner": "commixproject",
-            "repo": "commix",
-            "stars": 5819
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NoSQLMap",
-          "description": "Automated NoSQL database enumeration and exploitation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T02:28:11Z",
-            "owner": "codingo",
-            "repo": "NoSQLMap",
-            "stars": 3342
-          }
-        }
-      ],
-      "title": "Web Security Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Amass",
-          "description": "In-depth attack surface mapping and asset discovery.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-19T05:16:40Z",
-            "owner": "owasp-amass",
-            "repo": "amass",
-            "stars": 14991
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Subfinder",
-          "description": "Fast passive subdomain enumeration tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T14:22:49Z",
-            "owner": "projectdiscovery",
-            "repo": "subfinder",
-            "stars": 14226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sublist3r",
-          "description": "Fast subdomains enumeration tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-02T00:00:30Z",
-            "owner": "aboul3la",
-            "repo": "Sublist3r",
-            "stars": 11023
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knock",
-          "description": "Python tool to enumerate subdomains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-19T11:17:32Z",
-            "owner": "guelfoweb",
-            "repo": "knockpy",
-            "stars": 4179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Assetfinder",
-          "description": "Find domains and subdomains related to a given domain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-07T17:08:47Z",
-            "owner": "tomnomnom",
-            "repo": "assetfinder",
-            "stars": 3662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MassDNS",
-          "description": "High-performance DNS stub resolver.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-15T21:16:50Z",
-            "owner": "blechschmidt",
-            "repo": "massdns",
-            "stars": 3629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DNSRecon",
-          "description": "DNS enumeration and scanning tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:51:22Z",
-            "owner": "darkoperator",
-            "repo": "dnsrecon",
-            "stars": 3059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fierce",
-          "description": "DNS reconnaissance tool for locating non-contiguous IP space.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-28T14:35:58Z",
-            "owner": "mschwager",
-            "repo": "fierce",
-            "stars": 1805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shuffledns",
-          "description": "Wrapper around massdns for subdomain bruteforcing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T19:36:48Z",
-            "owner": "projectdiscovery",
-            "repo": "shuffledns",
-            "stars": 1660
-          }
-        }
-      ],
-      "title": "Reconnaissance & Enumeration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nuclei",
-          "description": "Fast vulnerability scanner based on YAML templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T12:41:59Z",
-            "owner": "projectdiscovery",
-            "repo": "nuclei",
-            "stars": 30588
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nikto",
-          "description": "Web server scanner for dangerous files and outdated software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-18T04:01:08Z",
-            "owner": "sullo",
-            "repo": "nikto",
-            "stars": 10665
-          }
-        }
-      ],
-      "title": "Vulnerability Scanning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SecLists",
-          "description": "Collection of multiple types of lists for security assessments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T13:47:29Z",
-            "owner": "danielmiessler",
-            "repo": "SecLists",
-            "stars": 72919
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ffuf",
-          "description": "Fast web fuzzer written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-19T15:11:15Z",
-            "owner": "ffuf",
-            "repo": "ffuf",
-            "stars": 16545
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dirsearch",
-          "description": "Web path scanner and directory brute-forcing tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T03:28:04Z",
-            "owner": "maurosoria",
-            "repo": "dirsearch",
-            "stars": 14641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gobuster",
-          "description": "Directory/file, DNS and VHost busting tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T22:02:56Z",
-            "owner": "OJ",
-            "repo": "gobuster",
-            "stars": 13998
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Feroxbuster",
-          "description": "Fast, simple, recursive content discovery tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-15T12:31:40Z",
-            "owner": "epi052",
-            "repo": "feroxbuster",
-            "stars": 8019
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wfuzz",
-          "description": "Web application fuzzer for brute-forcing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-21T15:31:40Z",
-            "owner": "xmendez",
-            "repo": "wfuzz",
-            "stars": 6555
-          }
-        }
-      ],
-      "title": "Content Discovery & Fuzzing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Arjun",
-          "description": "HTTP parameter discovery tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-20T10:52:16Z",
-            "owner": "s0md3v",
-            "repo": "Arjun",
-            "stars": 6380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kiterunner",
-          "description": "API endpoint and content discovery tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-10T04:51:01Z",
-            "owner": "assetnote",
-            "repo": "kiterunner",
-            "stars": 3239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ParamSpider",
-          "description": "Mining parameters from dark corners of web archives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-07T16:16:48Z",
-            "owner": "devanshbatham",
-            "repo": "ParamSpider",
-            "stars": 3153
-          }
-        }
-      ],
-      "title": "API Security Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jadx",
-          "description": "Dex to Java decompiler for Android applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-05T19:19:01Z",
-            "owner": "skylot",
-            "repo": "jadx",
-            "stars": 50122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MobSF",
-          "description": "Automated mobile application security testing framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T21:31:57Z",
-            "owner": "MobSF",
-            "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21610
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Objection",
-          "description": "Runtime mobile exploration toolkit powered by Frida.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T13:40:22Z",
-            "owner": "sensepost",
-            "repo": "objection",
-            "stars": 9325
-          }
-        }
-      ],
-      "title": "Mobile Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Faraday",
-          "description": "Collaborative penetration test and vulnerability management platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T15:40:41Z",
-            "owner": "infobyte",
-            "repo": "faraday",
-            "stars": 6690
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reconness",
-          "description": "Web application for continuous reconnaissance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-11T01:30:06Z",
-            "owner": "reconness",
-            "repo": "reconness",
-            "stars": 326
-          }
-        }
-      ],
-      "title": "Reporting & Collaboration"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:42:49.228Z",
+    "last_updated": "2026-08-19T12:08:07.202Z",
     "original_repository": "Astrosp/Awesome-OSINT-List",
+    "original_repository_id": 537300699,
     "original_repository_sha": "52e9d80985ebc0ba3a16388a858c93ec7e200b77",
     "enhanced_repository": "enhansome/enhansome-Awesome-OSINT-List",
     "enhanced_repository_description": null,
