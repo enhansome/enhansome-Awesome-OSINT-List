@@ -406,7 +406,7 @@
             "last_commit": "2026-08-25T09:47:59Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34610
+            "stars": 34611
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2026-08-26T08:56:57Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30870
+            "stars": 30869
           }
         },
         {
@@ -769,7 +769,7 @@
             "archived": false,
             "id": 120834196,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:19:53Z",
+            "last_commit": "2026-08-27T11:40:08Z",
             "owner": "ninoseki",
             "repo": "mitaka",
             "stars": 1847
@@ -823,7 +823,7 @@
             "last_commit": "2026-08-25T21:17:45Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28406
+            "stars": 28413
           }
         },
         {
@@ -931,7 +931,7 @@
             "archived": false,
             "id": 162200234,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:15:34Z",
+            "last_commit": "2026-08-27T12:12:37Z",
             "owner": "OpenCTI-Platform",
             "repo": "opencti",
             "stars": 9857
@@ -961,7 +961,7 @@
             "archived": false,
             "id": 47927876,
             "language": "Python",
-            "last_commit": "2026-08-27T08:11:46Z",
+            "last_commit": "2026-08-27T11:53:03Z",
             "owner": "yeti-platform",
             "repo": "yeti",
             "stars": 2020
@@ -1015,7 +1015,7 @@
             "last_commit": "2026-08-27T07:40:20Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90386
+            "stars": 90387
           }
         },
         {
@@ -1288,7 +1288,7 @@
             "last_commit": "2026-08-26T11:19:23Z",
             "owner": "zedeus",
             "repo": "nitter",
-            "stars": 13611
+            "stars": 13632
           }
         },
         {
@@ -1303,7 +1303,7 @@
             "last_commit": "2026-08-26T11:19:23Z",
             "owner": "zedeus",
             "repo": "nitter",
-            "stars": 13611
+            "stars": 13632
           }
         }
       ],
@@ -1396,7 +1396,7 @@
             "last_commit": "2025-08-25T12:00:48Z",
             "owner": "Datalux",
             "repo": "Osintgram",
-            "stars": 14149
+            "stars": 14150
           }
         },
         {
@@ -1507,7 +1507,7 @@
             "last_commit": "2026-01-27T16:43:08Z",
             "owner": "vognik",
             "repo": "maltego-telegram",
-            "stars": 557
+            "stars": 558
           }
         }
       ],
@@ -1630,7 +1630,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13330
+            "stars": 13329
           }
         },
         {
@@ -1815,7 +1815,7 @@
                 "archived": false,
                 "id": 120834196,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T06:19:53Z",
+                "last_commit": "2026-08-27T11:40:08Z",
                 "owner": "ninoseki",
                 "repo": "mitaka",
                 "stars": 1847
@@ -1943,7 +1943,7 @@
                 "last_commit": "2024-08-02T00:00:30Z",
                 "owner": "aboul3la",
                 "repo": "Sublist3r",
-                "stars": 11023
+                "stars": 11024
               }
             },
             {
@@ -2055,7 +2055,7 @@
                 "last_commit": "2026-08-26T08:56:57Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30870
+                "stars": 30869
               }
             },
             {
@@ -2241,7 +2241,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50230
+                "stars": 50231
               }
             },
             {
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:34.398Z",
+    "last_updated": "2026-08-27T12:13:20.466Z",
     "original_repository_info": {
       "archived": false,
       "id": 537300699,
