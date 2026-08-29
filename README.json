@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs",
+            "homepage": "https://dangerzone.rocks",
             "id": 232181980,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T14:48:59Z",
+            "open_issues": 207,
             "owner": "freedomofpress",
             "repo": "dangerzone",
-            "stars": 5715
+            "stars": 5717,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -26,12 +31,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.",
+            "homepage": "https://alfredredbird.github.io/tookie-osint/",
             "id": 681836129,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:04:29Z",
+            "open_issues": 1,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2860
+            "stars": 2863,
+            "topics": [
+              "cyber-security",
+              "cybersecurity",
+              "hacking-tool",
+              "hacking-tools",
+              "information-gathering",
+              "osint",
+              "osint-framework",
+              "osint-kali",
+              "osint-python",
+              "osint-reconnaissance",
+              "osint-resources",
+              "osint-tool",
+              "osint-toolkit",
+              "osint-tools",
+              "osinttool",
+              "parrot-os",
+              "python",
+              "python3",
+              "script"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -42,12 +72,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chiasmodon is an OSINT  tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.",
+            "homepage": "http://chiasmodon.online",
             "id": 776991286,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-10T21:44:14Z",
+            "open_issues": 3,
             "owner": "chiasmod0n",
             "repo": "chiasmodon",
-            "stars": 698
+            "stars": 698,
+            "topics": [
+              "asn",
+              "attack-surface",
+              "bugbounty",
+              "bugbounty-tool",
+              "chiasmodon",
+              "cidr",
+              "credentials",
+              "email-enumeration",
+              "emails",
+              "information-gathering",
+              "intelligence",
+              "intelligence-analysis",
+              "osint",
+              "reconnaissance",
+              "reconnaissance-framework",
+              "subdomain-enumeration",
+              "subdomains"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -68,12 +121,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the LLM vulnerability scanner",
+                    "homepage": "https://discord.gg/uVch4puUCs",
                     "id": 639097338,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T22:37:37Z",
+                    "open_issues": 408,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9056
+                    "stars": 9066,
+                    "topics": [
+                      "ai",
+                      "llm-evaluation",
+                      "llm-security",
+                      "security-scanners",
+                      "vulnerability-assessment"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -84,12 +148,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+                    "homepage": "https://docs.nvidia.com/nemo/guardrails/latest/index.html",
                     "id": 629494390,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T16:40:49Z",
+                    "open_issues": 205,
                     "owner": "NVIDIA-NeMo",
                     "repo": "Guardrails",
-                    "stars": 7025
+                    "stars": 7025,
+                    "topics": [
+                      "agents",
+                      "generative-ai",
+                      "guardrails",
+                      "llm-safety",
+                      "llm-security",
+                      "llms",
+                      "nvidia",
+                      "python",
+                      "safety"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -100,12 +179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities ",
+                    "homepage": null,
                     "id": 709957829,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-23T20:40:54Z",
+                    "open_issues": 3,
                     "owner": "protectai",
                     "repo": "ai-exploits",
-                    "stars": 1747
+                    "stars": 1747,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -116,12 +200,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "LLM Prompt Injection Detector",
+                    "homepage": "https://playground.rebuff.ai",
                     "id": 631814434,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-07T23:35:48Z",
+                    "open_issues": 33,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1521
+                    "stars": 1521,
+                    "topics": [
+                      "llm",
+                      "llmops",
+                      "prompt-engineering",
+                      "prompt-injection",
+                      "prompts",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -132,12 +228,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥",
+                    "homepage": null,
                     "id": 643275640,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-12T07:22:56Z",
+                    "open_issues": 3,
                     "owner": "mnns",
                     "repo": "LLMFuzzer",
-                    "stars": 379
+                    "stars": 379,
+                    "topics": [
+                      "ai",
+                      "cybersecurity",
+                      "llm",
+                      "llmsecurity"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -148,12 +254,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.",
+                    "homepage": "https://microsoft.github.io/PyRIT",
                     "id": 1191146757,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-03-25T01:18:52Z",
+                    "open_issues": 0,
                     "owner": "Azure",
                     "repo": "PyRIT",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": [
+                      "ai-red-team",
+                      "generative-ai",
+                      "red-team-tools",
+                      "responsible-ai"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 }
@@ -171,12 +287,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An adversarial example library for constructing attacks, building defenses, and benchmarking both",
+                    "homepage": null,
                     "id": 68254498,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-04-10T13:26:10Z",
+                    "open_issues": 46,
                     "owner": "cleverhans-lab",
                     "repo": "cleverhans",
-                    "stars": 6450
+                    "stars": 6450,
+                    "topics": [
+                      "benchmarking",
+                      "machine-learning",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -187,12 +312,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+                    "homepage": "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/",
                     "id": 125381318,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-12T07:01:28Z",
+                    "open_issues": 20,
                     "owner": "Trusted-AI",
                     "repo": "adversarial-robustness-toolbox",
-                    "stars": 6209
+                    "stars": 6209,
+                    "topics": [
+                      "adversarial-attacks",
+                      "adversarial-examples",
+                      "adversarial-machine-learning",
+                      "ai",
+                      "artificial-intelligence",
+                      "attack",
+                      "blue-team",
+                      "evasion",
+                      "extraction",
+                      "inference",
+                      "machine-learning",
+                      "poisoning",
+                      "privacy",
+                      "python",
+                      "red-team",
+                      "trusted-ai",
+                      "trustworthy-ai"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -203,12 +351,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/",
+                    "homepage": "https://textattack.readthedocs.io/en/master/",
                     "id": 215173055,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T12:32:20Z",
+                    "open_issues": 18,
                     "owner": "QData",
                     "repo": "TextAttack",
-                    "stars": 3472
+                    "stars": 3473,
+                    "topics": [
+                      "adversarial-attacks",
+                      "adversarial-examples",
+                      "adversarial-machine-learning",
+                      "data-augmentation",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "nlp",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -219,12 +381,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX",
+                    "homepage": "https://foolbox.jonasrauber.de",
                     "id": 94331757,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-03T08:37:14Z",
+                    "open_issues": 29,
                     "owner": "bethgelab",
                     "repo": "foolbox",
-                    "stars": 2972
+                    "stars": 2972,
+                    "topics": [
+                      "adversarial-attacks",
+                      "adversarial-examples",
+                      "jax",
+                      "keras",
+                      "machine-learning",
+                      "python",
+                      "pytorch",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 }
@@ -242,12 +418,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library for training machine learning models with privacy for training data",
+                    "homepage": null,
                     "id": 162747292,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T19:07:16Z",
+                    "open_issues": 136,
                     "owner": "tensorflow",
                     "repo": "privacy",
-                    "stars": 2026
+                    "stars": 2026,
+                    "topics": [
+                      "machine-learning",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -258,12 +442,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
+                    "homepage": null,
                     "id": 362276202,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-18T13:29:17Z",
+                    "open_issues": 26,
                     "owner": "Azure",
                     "repo": "counterfit",
-                    "stars": 937
+                    "stars": 937,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -274,12 +463,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms.",
+                    "homepage": null,
                     "id": 254225420,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-04-26T02:58:53Z",
+                    "open_issues": 11,
                     "owner": "privacytrustlab",
                     "repo": "ml_privacy_meter",
-                    "stars": 724
+                    "stars": 724,
+                    "topics": [
+                      "data-privacy",
+                      "data-protection",
+                      "data-protection-impact-assessment",
+                      "explainable-ai",
+                      "gdpr",
+                      "inference",
+                      "information-leakage",
+                      "machine-learning",
+                      "membership-inference-attack",
+                      "privacy",
+                      "privacy-audit"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -290,12 +496,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Privacy Testing for Deep Learning",
+                    "homepage": null,
                     "id": 266141010,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-05T19:03:08Z",
+                    "open_issues": 37,
                     "owner": "trailofbits",
                     "repo": "PrivacyRaven",
-                    "stars": 213
+                    "stars": 213,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning",
+                      "membership-inference",
+                      "model-extraction",
+                      "model-inversion",
+                      "privacy",
+                      "privacy-enhancing-technologies",
+                      "privacy-preserving-machine-learning",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 }
@@ -313,12 +534,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualizer for neural network, deep learning and machine learning models",
+                    "homepage": "https://netron.app",
                     "id": 1198539,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T23:39:52Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T17:15:34Z",
+                    "open_issues": 18,
                     "owner": "lutzroeder",
                     "repo": "netron",
-                    "stars": 33418
+                    "stars": 33421,
+                    "topics": [
+                      "ai",
+                      "coreml",
+                      "deep-learning",
+                      "deeplearning",
+                      "keras",
+                      "machine-learning",
+                      "machinelearning",
+                      "ml",
+                      "neural-network",
+                      "numpy",
+                      "onnx",
+                      "pytorch",
+                      "safetensors",
+                      "tensorflow",
+                      "tensorflow-lite",
+                      "visualizer"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -329,12 +572,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A model-agnostic visual debugging tool for machine learning",
+                    "homepage": null,
                     "id": 169798869,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-05T23:02:02Z",
+                    "open_issues": 83,
                     "owner": "uber",
                     "repo": "manifold",
-                    "stars": 1672
+                    "stars": 1672,
+                    "topics": [
+                      "incubation",
+                      "machine-learning",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 }
@@ -352,12 +604,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A toolkit that streamlines and automates the generation of model cards ",
+                    "homepage": "https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide",
                     "id": 282271871,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-26T12:05:00Z",
+                    "open_issues": 9,
                     "owner": "tensorflow",
                     "repo": "model-card-toolkit",
-                    "stars": 452
+                    "stars": 452,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning",
+                      "model-cards",
+                      "responsible-ai",
+                      "responsible-ml",
+                      "tensorflow",
+                      "transparency"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 },
@@ -368,12 +633,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Supply chain security for ML",
+                    "homepage": null,
                     "id": 682178126,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T04:40:32Z",
+                    "open_issues": 48,
                     "owner": "sigstore",
                     "repo": "model-transparency",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": [
+                      "machine-learning",
+                      "security",
+                      "sigstore",
+                      "supply-chain"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 }
@@ -391,12 +666,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " :octocat: Machine Learning for Cyber Security",
+                    "homepage": null,
                     "id": 76955905,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-19T02:14:10Z",
+                    "open_issues": 30,
                     "owner": "jivoi",
                     "repo": "awesome-ml-for-cybersecurity",
-                    "stars": 9328
+                    "stars": 9331,
+                    "topics": [
+                      "awesome-list",
+                      "cyber-security",
+                      "data-mining",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:19:54.311Z"
                 }
@@ -423,12 +708,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "homepage": "https://web-check.xyz",
             "id": 658364446,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:53:35Z",
+            "open_issues": 32,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34614
+            "stars": 34616,
+            "topics": [
+              "osint",
+              "privacy",
+              "security",
+              "security-tools",
+              "sysadmin"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -439,12 +735,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+            "homepage": "https://docs.projectdiscovery.io/tools/nuclei",
             "id": 252813491,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:56:57Z",
+            "open_issues": 106,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30890
+            "stars": 30908,
+            "topics": [
+              "attack-surface",
+              "cve-scanner",
+              "dast",
+              "hacktoberfest",
+              "nuclei-engine",
+              "security",
+              "security-scanner",
+              "subdomain-takeover",
+              "vulnerability-assessment",
+              "vulnerability-detection",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -455,12 +768,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+            "homepage": "http://www.spiderfoot.net",
             "id": 4165675,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
+            "open_issues": 314,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21479
+            "stars": 21493,
+            "topics": [
+              "attacksurface",
+              "cti",
+              "cybersecurity",
+              "footprinting",
+              "hacking",
+              "information-gathering",
+              "information-security",
+              "infosec",
+              "intelligence-gathering",
+              "osint",
+              "osint-framework",
+              "osint-reconnaissance",
+              "osint-tool",
+              "pentesting",
+              "python",
+              "recon",
+              "security-tools",
+              "threat-intelligence",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -471,12 +809,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A next-generation crawling and spidering framework.",
+            "homepage": null,
             "id": 326228917,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:33:28Z",
+            "open_issues": 24,
             "owner": "projectdiscovery",
             "repo": "katana",
-            "stars": 17353
+            "stars": 17354,
+            "topics": [
+              "cli",
+              "crawler",
+              "gocrawler",
+              "hacktoberfest",
+              "headless",
+              "spider-framework",
+              "web-spider"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -487,12 +838,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast web fuzzer written in Go",
+            "homepage": null,
             "id": 156681830,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-20T06:36:16Z",
+            "open_issues": 231,
             "owner": "ffuf",
             "repo": "ffuf",
-            "stars": 16599
+            "stars": 16601,
+            "topics": [
+              "fuzzer",
+              "infosec",
+              "pentesting",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -503,12 +864,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-depth attack surface mapping and asset discovery",
+            "homepage": "https://owasp.org/www-project-amass/",
             "id": 140457254,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T05:16:40Z",
+            "open_issues": 239,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15057
+            "stars": 15057,
+            "topics": [
+              "attack-surfaces",
+              "dns",
+              "enumeration",
+              "go",
+              "golang",
+              "information-gathering",
+              "maltego",
+              "network-security",
+              "osint",
+              "osint-reconnaissance",
+              "owasp",
+              "recon",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -519,12 +899,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast passive subdomain enumeration tool.",
+            "homepage": "https://projectdiscovery.io",
             "id": 127519518,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:53:08Z",
+            "open_issues": 5,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14326
+            "stars": 14330,
+            "topics": [
+              "bugbounty",
+              "hacking",
+              "hacktoberfest",
+              "osint",
+              "reconnaissance",
+              "subdomain-enumeration",
+              "subdomains"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -535,12 +928,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Directory/File, DNS and VHost busting tool written in Go",
+            "homepage": null,
             "id": 26639347,
             "language": "Go",
-            "last_commit": "2026-08-27T20:23:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:32:38Z",
+            "open_issues": 21,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14046
+            "stars": 14050,
+            "topics": [
+              "dns",
+              "go",
+              "pentesting",
+              "tool",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -551,12 +955,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incredibly fast crawler designed for OSINT.",
+            "homepage": null,
             "id": 127466226,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-07T12:50:36Z",
+            "open_issues": 59,
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 13153
+            "stars": 13155,
+            "topics": [
+              "crawler",
+              "information-gathering",
+              "osint",
+              "python",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -567,12 +982,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+            "homepage": "https://docs.projectdiscovery.io/tools/httpx",
             "id": 267713284,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:54:28Z",
+            "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10329
+            "stars": 10329,
+            "topics": [
+              "bugbounty",
+              "cli",
+              "cybersecurity",
+              "hacktoberfest",
+              "http",
+              "lib",
+              "osint",
+              "pentest-tool",
+              "pipeline",
+              "ssl-certificate"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -583,12 +1014,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, simple, recursive content discovery tool written in Rust.",
+            "homepage": "https://epi052.github.io/feroxbuster-docs/overview/",
             "id": 289516116,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-15T12:31:40Z",
+            "open_issues": 44,
             "owner": "epi052",
             "repo": "feroxbuster",
-            "stars": 8040
+            "stars": 8040,
+            "topics": [
+              "content-discovery",
+              "enumeration",
+              "hacktoberfest",
+              "pentest",
+              "pentesting-tool",
+              "rust",
+              "url-bruteforcer",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -599,12 +1044,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+            "homepage": "https://docs.reconftw.com/",
             "id": 325671936,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:13:22Z",
+            "open_issues": 4,
             "owner": "six2dez",
             "repo": "reconftw",
-            "stars": 8031
+            "stars": 8033,
+            "topics": [
+              "bug-bounty",
+              "bugbounty",
+              "bugbounty-tool",
+              "dns",
+              "hacking",
+              "nuclei",
+              "osint",
+              "penetration-testing",
+              "pentest",
+              "pentest-tool",
+              "pentesting",
+              "recon",
+              "reconnaissance",
+              "scanner",
+              "security",
+              "security-tools",
+              "subdomain",
+              "subdomain-enumeration",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -615,12 +1085,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Modern Orchestration Engine for Security",
+            "homepage": "https://www.osmedeus.org/",
             "id": 156946744,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-08T14:26:33Z",
+            "open_issues": 7,
             "owner": "j3ssie",
             "repo": "osmedeus",
-            "stars": 6541
+            "stars": 6541,
+            "topics": [
+              "agentic-ai",
+              "attack-surface-management",
+              "bugbounty",
+              "go",
+              "hacking",
+              "hacking-tool",
+              "llm",
+              "osint",
+              "penetration-testing",
+              "pentesting",
+              "reconnaissance",
+              "security",
+              "security-tools",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -631,12 +1122,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP parameter discovery suite.",
+            "homepage": null,
             "id": 123440315,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-02-20T10:52:16Z",
+            "open_issues": 23,
             "owner": "s0md3v",
             "repo": "Arjun",
-            "stars": 6387
+            "stars": 6387,
+            "topics": [
+              "api-fuzzer",
+              "api-fuzzing",
+              "api-testing",
+              "parameter-discovery",
+              "recon"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -647,12 +1149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
+            "homepage": null,
             "id": 178254323,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-01T20:11:51Z",
+            "open_issues": 38,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5873
+            "stars": 5874,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -663,12 +1170,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
+            "homepage": null,
             "id": 242879301,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-20T18:36:42Z",
+            "open_issues": 35,
             "owner": "lc",
             "repo": "gau",
-            "stars": 5077
+            "stars": 5077,
+            "topics": [
+              "alienvault",
+              "gau",
+              "hacktoberfest",
+              "security",
+              "wayback-machine"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -679,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fetch all the URLs that the Wayback Machine knows about for a domain",
+            "homepage": null,
             "id": 118829957,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-05-01T05:40:44Z",
+            "open_issues": 48,
             "owner": "tomnomnom",
             "repo": "waybackurls",
-            "stars": 4547
+            "stars": 4547,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -695,12 +1218,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.",
+            "homepage": "https://ivre.rocks/",
             "id": 23961941,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T03:17:41Z",
+            "open_issues": 55,
             "owner": "ivre",
             "repo": "ivre",
-            "stars": 4120
+            "stars": 4120,
+            "topics": [
+              "bro",
+              "easm",
+              "external-attack-surface-management",
+              "hacktoberfest",
+              "masscan",
+              "network",
+              "network-discovery",
+              "network-recon",
+              "network-reconnaissance",
+              "network-security",
+              "nmap",
+              "nmap-parser",
+              "nmap-results-analyse",
+              "nmap-scripts",
+              "osint",
+              "projectdiscovery",
+              "scan-ports",
+              "scans",
+              "security",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -711,12 +1260,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
+            "homepage": null,
             "id": 133257682,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-21T21:23:15Z",
+            "open_issues": 14,
             "owner": "evyatarmeged",
             "repo": "Raccoon",
-            "stars": 4004
+            "stars": 4004,
+            "topics": [
+              "enumeration",
+              "fuzzing",
+              "hacking",
+              "hacking-tool",
+              "information-gathering",
+              "offensive-security",
+              "osint",
+              "pentest-tool",
+              "pentesting",
+              "raccoon",
+              "reconnaissance",
+              "scanner",
+              "security-scanner",
+              "vulnerability-assessment",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -727,12 +1297,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.",
+            "homepage": "https://findomain.app",
             "id": 181352945,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T06:31:29Z",
+            "open_issues": 24,
             "owner": "Findomain",
             "repo": "Findomain",
-            "stars": 3786
+            "stars": 3786,
+            "topics": [
+              "bugbounty",
+              "dns",
+              "osint",
+              "subdomains"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -743,12 +1323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to find metadata and hidden information in the documents.",
+            "homepage": "https://www.elevenpaths.com/innovation-labs/technologies/foca",
             "id": 105561188,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-08T09:31:55Z",
+            "open_issues": 26,
             "owner": "ElevenPaths",
             "repo": "FOCA",
-            "stars": 3622
+            "stars": 3622,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -759,12 +1344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 ",
+            "homepage": null,
             "id": 437729997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-23T18:23:24Z",
+            "open_issues": 34,
             "owner": "fullhunt",
             "repo": "log4j-scan",
-            "stars": 3422
+            "stars": 3422,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -775,12 +1365,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing ",
+            "homepage": null,
             "id": 255061694,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-07T16:16:48Z",
+            "open_issues": 37,
             "owner": "devanshbatham",
             "repo": "ParamSpider",
-            "stars": 3161
+            "stars": 3161,
+            "topics": [
+              "bugbounty",
+              "content-discovery",
+              "fuzzing",
+              "osint",
+              "parameter",
+              "parameter-finder",
+              "urls-parameters"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -791,12 +1394,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebSift is an OSINT ethical hacking tool designed to scrape and extract emails, phone numbers, and social media links or other URLs from websites. It is developed for Termux and Linux-based systems",
+            "homepage": null,
             "id": 903347609,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-24T19:06:08Z",
+            "open_issues": 0,
             "owner": "s-r-e-e-r-a-j",
             "repo": "WebSift",
-            "stars": 571
+            "stars": 571,
+            "topics": [
+              "bash",
+              "bash-script",
+              "bash-tool",
+              "emailfinder",
+              "emailscrapping",
+              "ethical-hacking",
+              "ethical-hacking-tools",
+              "information-gathering",
+              "information-gathering-tools",
+              "informationgathering",
+              "kali-linux",
+              "kali-linux-tools",
+              "kali-tools",
+              "linux-shell",
+              "linux-tools",
+              "osint",
+              "phonenumber-scrapping",
+              "socialmediascraper",
+              "termux",
+              "termux-tools"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -813,12 +1442,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser extension for OSINT search",
+            "homepage": null,
             "id": 120834196,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:40:08Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:16:58Z",
+            "open_issues": 1,
             "owner": "ninoseki",
             "repo": "mitaka",
-            "stars": 1848
+            "stars": 1847,
+            "topics": [
+              "chrome-extension",
+              "osint",
+              "security",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -829,12 +1468,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-purpose OSINT toolkit with a neat web-interface.",
+            "homepage": null,
             "id": 575044074,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-16T06:07:37Z",
+            "open_issues": 65,
             "owner": "seekr-osint",
             "repo": "seekr",
-            "stars": 859
+            "stars": 861,
+            "topics": [
+              "badgerdb",
+              "email-osint",
+              "github-osint",
+              "go-osint-tool",
+              "golang",
+              "golang-osint",
+              "information-gathering",
+              "open-source-intelligence",
+              "osint",
+              "osint-framework",
+              "osint-tool",
+              "osint-toolkit",
+              "osint-tools",
+              "people-osint",
+              "social-engineering",
+              "typescript",
+              "web-interface"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -845,12 +1507,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐧 Security-focused Linux distribution with 140+ tools, custom kernel 6.17.13, AI assistant | 5 editions | Cloud, AI/ML, Automotive, Hardware hacking",
+            "homepage": "https://nullsec.us",
             "id": 1138818474,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-17T23:38:03Z",
+            "open_issues": 2,
             "owner": "bad-antics",
             "repo": "nullsec-linux",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "dfir",
+              "distro",
+              "hacking",
+              "kernel",
+              "linux",
+              "nullsec",
+              "operating-system",
+              "penetration-testing",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -867,12 +1544,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":scream: A curated list of amazingly awesome OSINT",
+            "homepage": null,
             "id": 75189212,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:17:45Z",
+            "open_issues": 9,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28565
+            "stars": 28635,
+            "topics": [
+              "awesome-list",
+              "osint",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -883,12 +1569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collections of tools and methods created to aid in OSINT collection",
+            "homepage": null,
             "id": 192129633,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-30T01:31:01Z",
+            "open_issues": 8,
             "owner": "sinwindie",
             "repo": "OSINT",
-            "stars": 3711
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -899,12 +1590,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Image and Video Deblurring",
+            "homepage": null,
             "id": 197458822,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-29T07:34:16Z",
+            "open_issues": 1,
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2912
+            "stars": 2912,
+            "topics": [
+              "burst-deblurring",
+              "camera-shake",
+              "deblurring",
+              "deep-learning",
+              "defocus-blur",
+              "defocus-deblurring",
+              "image-deblurring",
+              "image-deconvolution",
+              "kernel-estimation",
+              "motion-blur",
+              "motion-deblurring",
+              "restoration",
+              "stereo-deblurring",
+              "video-deblurring"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -915,12 +1626,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Maintained collection of OSINT related resources. (All Free & Actionable)",
+            "homepage": "https://osint.team",
             "id": 122914475,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-03T12:41:05Z",
+            "open_issues": 24,
             "owner": "Ph055a",
             "repo": "OSINT_Collection",
-            "stars": 2403
+            "stars": 2405,
+            "topics": [
+              "court-search",
+              "data-science",
+              "dataset",
+              "infosec",
+              "investigation",
+              "journalism",
+              "osint",
+              "research",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -931,12 +1657,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.",
+            "homepage": null,
             "id": 293267104,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-14T04:49:32Z",
+            "open_issues": 2,
             "owner": "osint-shifu",
             "repo": "querytool",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "email-lookup",
+              "information-gathering",
+              "lookup",
+              "oryon-osint",
+              "osint",
+              "osint-framework",
+              "osint-reconnaissance",
+              "osint-resources",
+              "osint-tools",
+              "people-search",
+              "recon",
+              "reconnaissance",
+              "username-lookup"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -947,12 +1692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Custom Search Engines ",
+            "homepage": null,
             "id": 117763052,
             "language": null,
+            "license": null,
             "last_commit": "2020-04-07T23:40:52Z",
+            "open_issues": 0,
             "owner": "Sprp77",
             "repo": "My-Google-CSE",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -969,12 +1719,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Sigma Rule Repository",
+            "homepage": "https://sigmahq.io/",
             "id": 77276660,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:42:38Z",
+            "open_issues": 209,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10955
+            "stars": 10956,
+            "topics": [
+              "elasticsearch",
+              "ids",
+              "logging",
+              "monitoring",
+              "security",
+              "siem",
+              "signatures",
+              "splunk",
+              "sysmon"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -985,12 +1750,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Cyber Threat Intelligence Platform",
+            "homepage": "https://opencti.io",
             "id": 162200234,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:04:51Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:15:02Z",
+            "open_issues": 2143,
             "owner": "OpenCTI-Platform",
             "repo": "opencti",
-            "stars": 9864
+            "stars": 9865,
+            "topics": [
+              "cti",
+              "cyber",
+              "cybersecurity",
+              "intelligence",
+              "osint",
+              "security",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1001,12 +1779,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelOwl: manage your Threat Intelligence at scale",
+            "homepage": "https://intelowlproject.github.io",
             "id": 231109256,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T09:47:26Z",
+            "open_issues": 75,
             "owner": "intelowlproject",
             "repo": "IntelOwl",
-            "stars": 4684
+            "stars": 4683,
+            "topics": [
+              "cyber-security",
+              "cyber-threat-intelligence",
+              "cybersecurity",
+              "dfir",
+              "enrichment",
+              "hacktoberfest",
+              "honeynet",
+              "incident-response",
+              "intel-owl",
+              "ioc",
+              "malware-analysis",
+              "malware-analyzer",
+              "osint",
+              "osint-python",
+              "python",
+              "security-tools",
+              "threat-hunting",
+              "threat-intelligence",
+              "threathunting",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1017,12 +1821,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your Everyday Threat Intelligence",
+            "homepage": "https://yeti-platform.io/",
             "id": 47927876,
             "language": "Python",
-            "last_commit": "2026-08-28T13:13:25Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T13:35:09Z",
+            "open_issues": 49,
             "owner": "yeti-platform",
             "repo": "yeti",
-            "stars": 2020
+            "stars": 2020,
+            "topics": [
+              "dfir",
+              "enrichment",
+              "infosec",
+              "intelligence",
+              "threat-hunting",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1033,12 +1850,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APTnotes data",
+            "homepage": null,
             "id": 55239337,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T15:15:17Z",
+            "open_issues": 38,
             "owner": "aptnotes",
             "repo": "data",
-            "stars": 1810
+            "stars": 1810,
+            "topics": [
+              "analysis",
+              "apt",
+              "malware"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1049,12 +1875,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically created C2 Feeds",
+            "homepage": null,
             "id": 189243571,
             "language": "REXX",
-            "last_commit": "2026-08-28T13:09:29Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:13:19Z",
+            "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
-            "stars": 742
+            "stars": 742,
+            "topics": [
+              "cobalt-strike",
+              "cobaltstrike",
+              "empire",
+              "indicators-of-compromise",
+              "iocs",
+              "metasploit",
+              "poshc2",
+              "threat-hunting",
+              "threat-intelligence",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1071,12 +1913,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hunt down social media accounts by username across social networks",
+            "homepage": "https://sherlockproject.xyz",
             "id": 162998479,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:42:17Z",
+            "open_issues": 334,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90507
+            "stars": 90566,
+            "topics": [
+              "cli",
+              "cti",
+              "cybersecurity",
+              "forensics",
+              "hacktoberfest",
+              "information-gathering",
+              "infosec",
+              "linux",
+              "osint",
+              "pentesting",
+              "python",
+              "python3",
+              "reconnaissance",
+              "redteam",
+              "sherlock",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1087,12 +1951,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OSINT tool to search for accounts by username and email in social networks.",
+            "homepage": "https://p1ngul1n0.gitbook.io/blackbird/",
             "id": 489384246,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-13T13:48:19Z",
+            "open_issues": 15,
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7874
+            "stars": 7880,
+            "topics": [
+              "cybersecurity",
+              "osint",
+              "pentesting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1103,12 +1977,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snoop — инструмент разведки на основе открытых данных (OSINT world)",
+            "homepage": "https://github.com/snooppr/snoop/releases",
             "id": 240491830,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T06:16:37Z",
+            "open_issues": 1,
             "owner": "snooppr",
             "repo": "snoop",
-            "stars": 4011
+            "stars": 4010,
+            "topics": [
+              "blueteam",
+              "ctf",
+              "geo",
+              "geocoder",
+              "infosec",
+              "ip",
+              "nickname",
+              "osint",
+              "parser",
+              "pentest",
+              "police",
+              "redteam",
+              "scanner",
+              "scraping",
+              "security",
+              "termux",
+              "username",
+              "username-checker",
+              "username-search",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1119,12 +2019,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+            "homepage": null,
             "id": 1079089186,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:25:27Z",
+            "open_issues": 9,
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3371
+            "stars": 3398,
+            "topics": [
+              "cybersecurity",
+              "cybersecurity-tools",
+              "email-osint",
+              "ethical-hacking",
+              "ethical-hacking-tools",
+              "identification",
+              "infosec",
+              "osint",
+              "osint-email",
+              "osint-tool",
+              "osint-tools",
+              "osint-username",
+              "pentesting",
+              "python",
+              "redteam-tools",
+              "redteaming",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1135,12 +2058,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSINT tool for finding profiles by username",
+            "homepage": null,
             "id": 369583524,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-30T04:43:12Z",
+            "open_issues": 8,
             "owner": "thewhiteh4t",
             "repo": "nexfil",
-            "stars": 2612
+            "stars": 2612,
+            "topics": [
+              "cybersecurity",
+              "fast",
+              "open-source-intelligence",
+              "osint",
+              "python",
+              "username"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1157,12 +2092,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕵️‍♂️ Offensive Google framework.",
+            "homepage": null,
             "id": 300592907,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T02:29:16Z",
+            "open_issues": 75,
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19440
+            "stars": 19448,
+            "topics": [
+              "google",
+              "hideandsec",
+              "osint"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1173,12 +2117,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automated e-mail OSINT tool",
+            "homepage": null,
             "id": 299054922,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-02T13:10:43Z",
+            "open_issues": 26,
             "owner": "alpkeskin",
             "repo": "mosint",
-            "stars": 6011
+            "stars": 6011,
+            "topics": [
+              "automation",
+              "data-breach",
+              "email",
+              "email-checker",
+              "go",
+              "hacking",
+              "information-gathering",
+              "osint",
+              "osint-tool",
+              "pentest",
+              "pwn",
+              "python-hacking",
+              "social-media",
+              "socmint",
+              "verification-service"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1189,12 +2154,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+            "homepage": null,
             "id": 1079089186,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:25:27Z",
+            "open_issues": 9,
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3371
+            "stars": 3398,
+            "topics": [
+              "cybersecurity",
+              "cybersecurity-tools",
+              "email-osint",
+              "ethical-hacking",
+              "ethical-hacking-tools",
+              "identification",
+              "infosec",
+              "osint",
+              "osint-email",
+              "osint-tool",
+              "osint-tools",
+              "osint-username",
+              "pentesting",
+              "python",
+              "redteam-tools",
+              "redteaming",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1205,12 +2193,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A OSINT tool to obtain a target's phone number just by having his email address",
+            "homepage": "https://www.martinvigo.com/email2phonenumber",
             "id": 176174380,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-26T21:09:58Z",
+            "open_issues": 9,
             "owner": "martinvigo",
             "repo": "email2phonenumber",
-            "stars": 2750
+            "stars": 2750,
+            "topics": [
+              "authentication",
+              "hacking",
+              "osint",
+              "osinttool",
+              "password-reset",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1221,12 +2221,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSINT tool to find breached emails, databases, pastes, and relevant information",
+            "homepage": null,
             "id": 182323091,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-14T14:29:48Z",
+            "open_issues": 16,
             "owner": "Ekultek",
             "repo": "WhatBreach",
-            "stars": 1665
+            "stars": 1664,
+            "topics": [
+              "breach",
+              "breaches",
+              "domains",
+              "emails",
+              "osint"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1237,12 +2248,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping",
+            "homepage": null,
             "id": 187035044,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-26T12:52:16Z",
+            "open_issues": 8,
             "owner": "m8sec",
             "repo": "CrossLinked",
-            "stars": 1582
+            "stars": 1582,
+            "topics": [
+              "enumeration",
+              "linkedin-scraper",
+              "osint",
+              "pentest-scripts",
+              "pentest-tool",
+              "python3",
+              "username-generator",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1253,12 +2278,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced tool for email reconnaissance",
+            "homepage": null,
             "id": 190042776,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-03-26T16:41:38Z",
+            "open_issues": 34,
             "owner": "sham00n",
             "repo": "buster",
-            "stars": 1397
+            "stars": 1398,
+            "topics": [
+              "cybersecurity",
+              "emails",
+              "infosec",
+              "inteligence",
+              "osint",
+              "penetration-testing",
+              "recon",
+              "social-accounts"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1269,12 +2308,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬",
+            "homepage": null,
             "id": 398259833,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-24T16:35:26Z",
+            "open_issues": 0,
             "owner": "sharsil",
             "repo": "mailcat",
-            "stars": 934
+            "stars": 934,
+            "topics": [
+              "cat",
+              "email",
+              "email-api",
+              "email-checker",
+              "email-enum",
+              "email-enumeration",
+              "email-validation",
+              "osint",
+              "osint-python",
+              "osint-reconnaissance",
+              "osint-resources",
+              "osint-tool",
+              "probiv",
+              "recon",
+              "reconnaissance",
+              "smtp",
+              "smtp-checker",
+              "tor",
+              "user-check",
+              "user-checker"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1291,12 +2356,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful tool to track location or mobile number",
+            "homepage": null,
             "id": 628192229,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-11T15:36:46Z",
+            "open_issues": 113,
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 14950
+            "stars": 14951,
+            "topics": [
+              "cybersecurity",
+              "fyp",
+              "hacking",
+              "hacking-tool",
+              "indonesia",
+              "information",
+              "information-gathering",
+              "ip-geolocation",
+              "linux",
+              "osint",
+              "osint-python",
+              "osint-tool",
+              "pentesting",
+              "phone-number",
+              "python",
+              "python-hacking",
+              "termux",
+              "termux-hacks",
+              "termux-tool"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1307,12 +2397,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This tool gives information about the phone number that you entered.",
+            "homepage": null,
             "id": 262434885,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-13T06:27:10Z",
+            "open_issues": 28,
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2075
+            "stars": 2075,
+            "topics": [
+              "advanced",
+              "advanced-osint-tool",
+              "amazon-aws",
+              "information",
+              "information-gathering",
+              "kali-osint",
+              "moriarty",
+              "moriarty-project",
+              "osint",
+              "osint-kali",
+              "osint-python",
+              "osint-tool",
+              "osinttool",
+              "phone",
+              "phone-information",
+              "phone-number",
+              "phone-number-information",
+              "phoneinfo",
+              "python3-moriarty",
+              "sms"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1323,12 +2439,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+            "homepage": "https://x.com/jofpin",
             "id": 109004193,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-20T19:04:00Z",
+            "open_issues": 255,
             "owner": "jofpin",
             "repo": "trape",
-            "stars": 8980
+            "stars": 8981,
+            "topics": [
+              "flask",
+              "footprint",
+              "hacking",
+              "hacking-tool",
+              "jose-pino",
+              "osint",
+              "phising",
+              "python",
+              "recognition",
+              "security",
+              "social-engineering",
+              "tracking"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1339,12 +2473,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of most useful osint tools for SOCINT.",
+            "homepage": "https://osintambition.github.io/Social-Media-OSINT-Tools-Collection/",
             "id": 643174512,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-01-30T14:43:22Z",
+            "open_issues": 17,
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1954
+            "stars": 1956,
+            "topics": [
+              "humint",
+              "osint",
+              "osint-resources",
+              "osint-toolkit",
+              "osint-tools",
+              "osinttool",
+              "social",
+              "social-media",
+              "socint",
+              "socmint"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1361,12 +2511,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alternative Twitter front-end",
+            "homepage": "https://nitter.net",
             "id": 192928781,
             "language": "Nim",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T11:19:23Z",
+            "open_issues": 156,
             "owner": "zedeus",
             "repo": "nitter",
-            "stars": 14045
+            "stars": 14049,
+            "topics": [
+              "nim",
+              "privacy",
+              "self-hosted",
+              "twitter",
+              "x"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1377,12 +2538,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alternative Twitter front-end",
+            "homepage": "https://nitter.net",
             "id": 192928781,
             "language": "Nim",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T11:19:23Z",
+            "open_issues": 156,
             "owner": "zedeus",
             "repo": "nitter",
-            "stars": 14045
+            "stars": 14049,
+            "topics": [
+              "nim",
+              "privacy",
+              "self-hosted",
+              "twitter",
+              "x"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1399,12 +2571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pushshift API",
+            "homepage": null,
             "id": 100651222,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-06T18:32:52Z",
+            "open_issues": 117,
             "owner": "pushshift",
             "repo": "api",
-            "stars": 1433
+            "stars": 1433,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1415,12 +2592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python module to extract personality insights, sentiment & keywords from reddit accounts.  pip install reddit_persona",
+            "homepage": null,
             "id": 64739447,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-07-19T08:43:25Z",
+            "open_issues": 1,
             "owner": "N2ITN",
             "repo": "Reddit_Persona",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1437,12 +2619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python program to scrape secrets from GitHub through usage of a large repository of dorks.",
+            "homepage": null,
             "id": 279177733,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-03T16:48:40Z",
+            "open_issues": 22,
             "owner": "obheda12",
             "repo": "GitDorker",
-            "stars": 2578
+            "stars": 2578,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1453,12 +2640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 255571225,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-11T03:17:50Z",
+            "open_issues": 0,
             "owner": "robyfirnandoyusuf",
             "repo": "Google-Dork-Cheatsheet",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1475,12 +2667,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+            "homepage": null,
             "id": 190823163,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-25T12:00:48Z",
+            "open_issues": 884,
             "owner": "Datalux",
             "repo": "Osintgram",
-            "stars": 14159
+            "stars": 14167,
+            "topics": [
+              "analysis",
+              "hacking",
+              "information-gathering",
+              "instagram",
+              "instagram-account",
+              "instagram-api",
+              "nickname",
+              "osint",
+              "osint-python",
+              "penetration-testing",
+              "python",
+              "python3",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1491,12 +2702,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more",
+            "homepage": null,
             "id": 238085528,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-05T21:46:49Z",
+            "open_issues": 337,
             "owner": "megadose",
             "repo": "toutatis",
-            "stars": 4244
+            "stars": 4248,
+            "topics": [
+              "information-gathering",
+              "instagram",
+              "instagram-scraper",
+              "open-source-intelligence",
+              "osint",
+              "osint-tools",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1507,12 +2731,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple OSINT script to find Instagram profiles by name and e-mail/phone ",
+            "homepage": null,
             "id": 441298162,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-17T18:35:46Z",
+            "open_issues": 26,
             "owner": "0x0be",
             "repo": "yesitsme",
-            "stars": 3049
+            "stars": 3051,
+            "topics": [
+              "instagram",
+              "open-source-intelligence",
+              "osint",
+              "osint-tools",
+              "python",
+              "social-media-analysis",
+              "social-media-intelligence",
+              "socmint"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1523,12 +2761,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information Gathering Instagram.",
+            "homepage": null,
             "id": 219472971,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-01T20:50:43Z",
+            "open_issues": 52,
             "owner": "th3unkn0n",
             "repo": "osi.ig",
-            "stars": 1554
+            "stars": 1554,
+            "topics": [
+              "information-gathering",
+              "information-retrieval",
+              "instagram",
+              "instagram-scraper",
+              "linux",
+              "osint",
+              "python",
+              "python3",
+              "scraper",
+              "termux",
+              "termux-tool"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1539,12 +2794,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSINT Tool gets a range of information from an Instagram account 🛠",
+            "homepage": null,
             "id": 270755692,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-28T22:07:56Z",
+            "open_issues": 6,
             "owner": "yezz123",
             "repo": "SoIG",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "api",
+              "caption",
+              "information-gathering",
+              "instagram",
+              "instagram-osint",
+              "osint",
+              "osint-python",
+              "osint-tool",
+              "picture-url",
+              "profile",
+              "python",
+              "python-3",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1555,12 +2829,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 Interactive Instagram OSINT CLI with pluggable HikerAPI and aiograpi backends",
+            "homepage": "https://subzeroid.github.io/insto/",
             "id": 1221979568,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-20T23:19:28Z",
+            "open_issues": 1,
             "owner": "subzeroid",
             "repo": "insto",
-            "stars": 92
+            "stars": 93,
+            "topics": [
+              "aiograpi",
+              "analysis",
+              "cli",
+              "hikerapi",
+              "information-gathering",
+              "instagram",
+              "instagram-account",
+              "instagram-api",
+              "instagrapi",
+              "intelligence",
+              "maltego",
+              "open-source-intelligence",
+              "osint",
+              "osint-python",
+              "prompt-toolkit",
+              "python",
+              "repl",
+              "social-media"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1571,12 +2869,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⬇️ Async Instagram downloader CLI — profiles, posts, reels, stories, highlights, hashtags, comments. Pluggable backends (HikerAPI / aiograpi).",
+            "homepage": "https://subzeroid.github.io/insta-dl/",
             "id": 1219461456,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T23:32:53Z",
+            "open_issues": 0,
             "owner": "subzeroid",
             "repo": "insta-dl",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "aiograpi",
+              "cli",
+              "downloader",
+              "hikerapi",
+              "instagram",
+              "instagram-client",
+              "instagram-downloader",
+              "instagram-feed",
+              "instagram-metadata",
+              "instagram-photos",
+              "instagram-scraper",
+              "instagram-stories",
+              "instagram-user-photos",
+              "instagrapi",
+              "instaloader",
+              "osint",
+              "osint-python",
+              "pictures",
+              "python",
+              "videos"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1593,12 +2917,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.",
+            "homepage": null,
             "id": 883399695,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-27T16:43:08Z",
+            "open_issues": 3,
             "owner": "vognik",
             "repo": "maltego-telegram",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "cybersecurity",
+              "intelligence",
+              "maltego",
+              "osint",
+              "pyrogram",
+              "python",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1615,12 +2952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware Analysis Tool",
+            "homepage": null,
             "id": 14434734,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-11T15:27:34Z",
+            "open_issues": 93,
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14282
+            "stars": 14284,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1631,12 +2973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to find metadata and hidden information in the documents.",
+            "homepage": "https://www.elevenpaths.com/innovation-labs/technologies/foca",
             "id": 105561188,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-08T09:31:55Z",
+            "open_issues": 26,
             "owner": "ElevenPaths",
             "repo": "FOCA",
-            "stars": 3622
+            "stars": 3622,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1647,12 +2994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metadata harvester",
+            "homepage": null,
             "id": 40654736,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-21T03:45:48Z",
+            "open_issues": 19,
             "owner": "laramies",
             "repo": "metagoofil",
-            "stars": 1313
+            "stars": 1314,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1669,12 +3021,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.",
+            "homepage": null,
             "id": 206690330,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-28T15:41:48Z",
+            "open_issues": 33,
             "owner": "eth0izzle",
             "repo": "shhgit",
-            "stars": 3977
+            "stars": 3977,
+            "topics": [
+              "cyint",
+              "github",
+              "github-api",
+              "golang",
+              "osint",
+              "secret",
+              "secrets",
+              "secrets-management",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1685,12 +3052,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast GitHub recon tool. Scans for leaked secrets across all of GitHub, not just known repos and orgs. Support for GitHub dorks.",
+            "homepage": "http://githoundexplore.com/",
             "id": 197129669,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-10T00:32:15Z",
+            "open_issues": 4,
             "owner": "tillson",
             "repo": "git-hound",
-            "stars": 1452
+            "stars": 1452,
+            "topics": [
+              "bugbounty",
+              "credentials",
+              "devsecops",
+              "leaks",
+              "osint",
+              "recon",
+              "scanning",
+              "secret",
+              "secret-management",
+              "secrets",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1701,12 +3086,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find emails of Github users",
+            "homepage": null,
             "id": 153084655,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-05T15:49:59Z",
+            "open_issues": 3,
             "owner": "s0md3v",
             "repo": "Zen",
-            "stars": 599
+            "stars": 599,
+            "topics": [
+              "github",
+              "github-recon",
+              "information-gathering",
+              "osint",
+              "recon"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1723,12 +3119,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.",
+            "homepage": "https://thezoo.morirt.com",
             "id": 15776012,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-24T08:11:43Z",
+            "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13332
+            "stars": 13334,
+            "topics": [
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "malware-samples",
+              "malwareanalysis",
+              "thezoo"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1739,12 +3147,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APTnotes data",
+            "homepage": null,
             "id": 55239337,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T15:15:17Z",
+            "open_issues": 38,
             "owner": "aptnotes",
             "repo": "data",
-            "stars": 1810
+            "stars": 1810,
+            "topics": [
+              "analysis",
+              "apt",
+              "malware"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1755,12 +3172,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The legacy Exploit Database paper repository - New repo located at https://gitlab.com/exploit-database/exploitdb-papers",
+            "homepage": "https://gitlab.com/exploit-database/exploitdb-papers",
             "id": 111840859,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2022-11-10T21:07:30Z",
+            "open_issues": 0,
             "owner": "offensive-security",
             "repo": "exploitdb-papers",
-            "stars": 463
+            "stars": 463,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1777,12 +3199,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-Powered Dark Web OSINT Tool",
+            "homepage": null,
             "id": 962685604,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T00:38:05Z",
+            "open_issues": 14,
             "owner": "apurvsinghgautam",
             "repo": "robin",
-            "stars": 6454
+            "stars": 6478,
+            "topics": [
+              "ai-tool",
+              "darkweb",
+              "darkweb-osint",
+              "investigation-tool",
+              "llm-powered",
+              "osint",
+              "osint-tool"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1793,12 +3228,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark Web OSINT Tool",
+            "homepage": null,
             "id": 91573963,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T00:47:17Z",
+            "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4728
+            "stars": 4738,
+            "topics": [
+              "algorithm",
+              "crawler",
+              "dark-web",
+              "dedsec-inside",
+              "deepweb",
+              "go",
+              "hacking",
+              "hacktoberfest",
+              "osint",
+              "projects",
+              "psnappz",
+              "python",
+              "python-web-crawler",
+              "python3",
+              "security",
+              "security-tools",
+              "spider",
+              "tor",
+              "tor-network",
+              "torbot"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         },
@@ -1809,12 +3270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OnionScan is a free and open source tool for investigating the Dark Web.",
+            "homepage": "https://twitter.com/OnionScan",
             "id": 55757553,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-09T23:55:59Z",
+            "open_issues": 86,
             "owner": "s-rah",
             "repo": "onionscan",
-            "stars": 3291
+            "stars": 3291,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1831,12 +3297,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OSINT search engine for mapping real-world infrastructure from OpenStreetMap data",
+            "homepage": "https://sightline-maps.vercel.app",
             "id": 1141658060,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-10T18:55:02Z",
+            "open_issues": 0,
             "owner": "ni5arga",
             "repo": "sightline",
-            "stars": 560
+            "stars": 561,
+            "topics": [
+              "geo-osint",
+              "geoint",
+              "openstreetmap",
+              "openstreetmap-api",
+              "openstreetmap-data",
+              "osint",
+              "overpass-turbo"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1853,12 +3332,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An environment of open source services used for market analysis",
+            "homepage": null,
             "id": 428007711,
             "language": "PLpgSQL",
+            "license": "MIT",
             "last_commit": "2023-03-23T20:13:55Z",
+            "open_issues": 2,
             "owner": "mashiox",
             "repo": "analytics-engine",
-            "stars": 41
+            "stars": 42,
+            "topics": [
+              "bitcoin",
+              "cryptocurrency",
+              "finance",
+              "fintech",
+              "investment-analysis",
+              "investment-research",
+              "market-analysis",
+              "numerical-analysis",
+              "osint",
+              "quantitative-finance",
+              "stock-market",
+              "stock-market-analysis",
+              "stocks"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1875,12 +3373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data from Legal Aid Society's Law Enforcement Lookup",
+            "homepage": null,
             "id": 546109616,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-10T12:14:20Z",
+            "open_issues": 2,
             "owner": "the-legal-aid-society",
             "repo": "LELU",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1897,12 +3400,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!",
+            "homepage": "https://t.me/officer_cia",
             "id": 568727854,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
+            "open_issues": 5,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1931
+            "stars": 1931,
+            "topics": [
+              "aml",
+              "awesome",
+              "awesome-list",
+              "awesome-readme",
+              "awsome-lists",
+              "bitcoin",
+              "blockchain",
+              "due-diligence",
+              "ethereum",
+              "investigation",
+              "on-chain-analysis",
+              "on-chain-investigation",
+              "osint",
+              "tether",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.311Z"
         }
@@ -1921,12 +3445,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browser extension for OSINT search",
+                "homepage": null,
                 "id": 120834196,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:40:08Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:16:58Z",
+                "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1848
+                "stars": 1847,
+                "topics": [
+                  "chrome-extension",
+                  "osint",
+                  "security",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -1937,12 +3471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target. If you want to ask something please feel free to reach out to me at robotcoder@protonmail.com",
+                "homepage": "https://docs.osint-spy.io",
                 "id": 99078986,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-23T09:13:23Z",
+                "open_issues": 13,
                 "owner": "SharadKumar97",
                 "repo": "OSINT-SPY",
-                "stars": 1543
+                "stars": 1543,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -1966,12 +3505,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Most advanced XSS scanner.",
+                "homepage": null,
                 "id": 95419982,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-26T08:47:06Z",
+                "open_issues": 94,
                 "owner": "s0md3v",
                 "repo": "XSStrike",
-                "stars": 15153
+                "stars": 15156,
+                "topics": [
+                  "waf-detection",
+                  "xss",
+                  "xss-bruteforce",
+                  "xss-detection",
+                  "xss-exploit",
+                  "xss-python",
+                  "xss-scanner",
+                  "xsstrike"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -1982,12 +3535,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated All-in-One OS Command Injection Exploitation Tool",
+                "homepage": "https://commixproject.com",
                 "id": 32572504,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T03:34:39Z",
+                "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5826
+                "stars": 5828,
+                "topics": [
+                  "bugbounty",
+                  "command-injection",
+                  "commix",
+                  "detection",
+                  "exploitation",
+                  "open-source",
+                  "pentesting",
+                  "python",
+                  "takeover",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -1998,12 +3567,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated NoSQL database enumeration and web application exploitation tool.",
+                "homepage": null,
                 "id": 13067823,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-28T02:28:11Z",
+                "open_issues": 1,
                 "owner": "codingo",
                 "repo": "NoSQLMap",
-                "stars": 3345
+                "stars": 3345,
+                "topics": [
+                  "bugbounty",
+                  "couchdb",
+                  "databases",
+                  "enumeration",
+                  "hacking",
+                  "hacking-tool",
+                  "hacktoberfest",
+                  "mongodb",
+                  "mongodb-database",
+                  "nosql",
+                  "nosql-databases",
+                  "offensive-security",
+                  "penetration-testing",
+                  "redis",
+                  "scanner",
+                  "security-audit",
+                  "security-tools",
+                  "security-toolset",
+                  "sql-injection",
+                  "web-application-security"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2021,12 +3616,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In-depth attack surface mapping and asset discovery",
+                "homepage": "https://owasp.org/www-project-amass/",
                 "id": 140457254,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-19T05:16:40Z",
+                "open_issues": 239,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15057
+                "stars": 15057,
+                "topics": [
+                  "attack-surfaces",
+                  "dns",
+                  "enumeration",
+                  "go",
+                  "golang",
+                  "information-gathering",
+                  "maltego",
+                  "network-security",
+                  "osint",
+                  "osint-reconnaissance",
+                  "owasp",
+                  "recon",
+                  "subdomain"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2037,12 +3651,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast passive subdomain enumeration tool.",
+                "homepage": "https://projectdiscovery.io",
                 "id": 127519518,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:53:08Z",
+                "open_issues": 5,
                 "owner": "projectdiscovery",
                 "repo": "subfinder",
-                "stars": 14326
+                "stars": 14330,
+                "topics": [
+                  "bugbounty",
+                  "hacking",
+                  "hacktoberfest",
+                  "osint",
+                  "reconnaissance",
+                  "subdomain-enumeration",
+                  "subdomains"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2053,12 +3680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast subdomains enumeration tool for penetration testers",
+                "homepage": null,
                 "id": 48010677,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-02T00:00:30Z",
+                "open_issues": 253,
                 "owner": "aboul3la",
                 "repo": "Sublist3r",
-                "stars": 11024
+                "stars": 11025,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2069,12 +3701,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knock Subdomain Scan",
+                "homepage": "https://github.com/guelfoweb/knockpy",
                 "id": 16733466,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-19T11:17:32Z",
+                "open_issues": 71,
                 "owner": "guelfoweb",
                 "repo": "knockpy",
-                "stars": 4180
+                "stars": 4180,
+                "topics": [
+                  "bugbounty",
+                  "knockpy",
+                  "penetration-testing",
+                  "security",
+                  "subdomain",
+                  "subdomain-enumeration",
+                  "subdomain-scanner"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2085,12 +3730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find domains and subdomains related to a given domain",
+                "homepage": null,
                 "id": 193392376,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-07T17:08:47Z",
+                "open_issues": 43,
                 "owner": "tomnomnom",
                 "repo": "assetfinder",
-                "stars": 3667
+                "stars": 3667,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2101,12 +3751,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)",
+                "homepage": null,
                 "id": 61796725,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-15T21:16:50Z",
+                "open_issues": 14,
                 "owner": "blechschmidt",
                 "repo": "massdns",
-                "stars": 3635
+                "stars": 3635,
+                "topics": [
+                  "bulk-dns",
+                  "dns",
+                  "dns-bruteforcer",
+                  "dns-client",
+                  "dns-lookup",
+                  "dns-resolution",
+                  "dns-resolver",
+                  "massdns",
+                  "reconnaissance",
+                  "subbrute",
+                  "subdomain"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2117,12 +3784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DNS Enumeration Script",
+                "homepage": null,
                 "id": 1173123,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-17T05:51:22Z",
+                "open_issues": 2,
                 "owner": "darkoperator",
                 "repo": "dnsrecon",
-                "stars": 3061
+                "stars": 3062,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2133,12 +3805,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DNS reconnaissance tool for locating non-contiguous IP space.",
+                "homepage": null,
                 "id": 57169020,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-28T14:35:58Z",
+                "open_issues": 9,
                 "owner": "mschwager",
                 "repo": "fierce",
-                "stars": 1808
+                "stars": 1808,
+                "topics": [
+                  "discovered-domains",
+                  "dns",
+                  "domain",
+                  "fierce",
+                  "name-server",
+                  "reconnaissance",
+                  "subdomain",
+                  "zone-transfers"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2149,12 +3835,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.",
+                "homepage": "https://projectdiscovery.io",
                 "id": 243079190,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T19:27:01Z",
+                "open_issues": 4,
                 "owner": "projectdiscovery",
                 "repo": "shuffledns",
-                "stars": 1664
+                "stars": 1664,
+                "topics": [
+                  "dns",
+                  "dns-bruteforcer",
+                  "dns-resolution",
+                  "dns-resolver",
+                  "hacktoberfest",
+                  "massdns",
+                  "reconnaissance",
+                  "subdomain-bruteforcing"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2172,12 +3872,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+                "homepage": "https://docs.projectdiscovery.io/tools/nuclei",
                 "id": 252813491,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:56:57Z",
+                "open_issues": 106,
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30890
+                "stars": 30908,
+                "topics": [
+                  "attack-surface",
+                  "cve-scanner",
+                  "dast",
+                  "hacktoberfest",
+                  "nuclei-engine",
+                  "security",
+                  "security-scanner",
+                  "subdomain-takeover",
+                  "vulnerability-assessment",
+                  "vulnerability-detection",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2188,12 +3905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nikto web server scanner",
+                "homepage": null,
                 "id": 6836299,
                 "language": "Perl",
-                "last_commit": "2026-08-18T04:01:08Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:43:06Z",
+                "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10689
+                "stars": 10691,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2211,12 +3933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+                "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
                 "id": 3482588,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:51:06Z",
+                "open_issues": 13,
                 "owner": "danielmiessler",
                 "repo": "SecLists",
-                "stars": 73131
+                "stars": 73142,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2227,12 +3954,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast web fuzzer written in Go",
+                "homepage": null,
                 "id": 156681830,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-20T06:36:16Z",
+                "open_issues": 231,
                 "owner": "ffuf",
                 "repo": "ffuf",
-                "stars": 16599
+                "stars": 16601,
+                "topics": [
+                  "fuzzer",
+                  "infosec",
+                  "pentesting",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2243,12 +3980,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web path scanner",
+                "homepage": null,
                 "id": 9774482,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T17:36:33Z",
+                "open_issues": 23,
                 "owner": "maurosoria",
                 "repo": "dirsearch",
-                "stars": 14668
+                "stars": 14670,
+                "topics": [
+                  "appsec",
+                  "brute",
+                  "bug-bounty",
+                  "bugbounty",
+                  "dirsearch",
+                  "enumeration",
+                  "fuzzer",
+                  "fuzzing",
+                  "hacking",
+                  "hacking-tool",
+                  "infosec",
+                  "penetration-testing",
+                  "pentest-tool",
+                  "pentesting",
+                  "python",
+                  "red-teaming",
+                  "redteam",
+                  "scanner",
+                  "security",
+                  "wordlist"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2259,12 +4022,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Directory/File, DNS and VHost busting tool written in Go",
+                "homepage": null,
                 "id": 26639347,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:23:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:32:38Z",
+                "open_issues": 21,
                 "owner": "OJ",
                 "repo": "gobuster",
-                "stars": 14046
+                "stars": 14050,
+                "topics": [
+                  "dns",
+                  "go",
+                  "pentesting",
+                  "tool",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2275,12 +4049,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, simple, recursive content discovery tool written in Rust.",
+                "homepage": "https://epi052.github.io/feroxbuster-docs/overview/",
                 "id": 289516116,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-04-15T12:31:40Z",
+                "open_issues": 44,
                 "owner": "epi052",
                 "repo": "feroxbuster",
-                "stars": 8040
+                "stars": 8040,
+                "topics": [
+                  "content-discovery",
+                  "enumeration",
+                  "hacktoberfest",
+                  "pentest",
+                  "pentesting-tool",
+                  "rust",
+                  "url-bruteforcer",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2291,12 +4079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application fuzzer",
+                "homepage": "http://wfuzz.io",
                 "id": 25605151,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-21T15:31:40Z",
+                "open_issues": 117,
                 "owner": "xmendez",
                 "repo": "wfuzz",
-                "stars": 6559
+                "stars": 6560,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2314,12 +4107,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP parameter discovery suite.",
+                "homepage": null,
                 "id": 123440315,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-02-20T10:52:16Z",
+                "open_issues": 23,
                 "owner": "s0md3v",
                 "repo": "Arjun",
-                "stars": 6387
+                "stars": 6387,
+                "topics": [
+                  "api-fuzzer",
+                  "api-fuzzing",
+                  "api-testing",
+                  "parameter-discovery",
+                  "recon"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2330,12 +4134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contextual Content Discovery Tool",
+                "homepage": null,
                 "id": 355407223,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T04:51:01Z",
+                "open_issues": 51,
                 "owner": "assetnote",
                 "repo": "kiterunner",
-                "stars": 3247
+                "stars": 3247,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2346,12 +4155,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing ",
+                "homepage": null,
                 "id": 255061694,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-07T16:16:48Z",
+                "open_issues": 37,
                 "owner": "devanshbatham",
                 "repo": "ParamSpider",
-                "stars": 3161
+                "stars": 3161,
+                "topics": [
+                  "bugbounty",
+                  "content-discovery",
+                  "fuzzing",
+                  "osint",
+                  "parameter",
+                  "parameter-finder",
+                  "urls-parameters"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2369,12 +4191,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dex to Java decompiler",
+                "homepage": null,
                 "id": 8859474,
                 "language": "Java",
-                "last_commit": "2026-08-19T18:52:12Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:02:10Z",
+                "open_issues": 443,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50246
+                "stars": 50251,
+                "topics": [
+                  "android",
+                  "decompiler",
+                  "dex",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2385,12 +4217,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+                "homepage": "https://opensecurity.in",
                 "id": 30102273,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T04:55:25Z",
+                "open_issues": 25,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21660
+                "stars": 21661,
+                "topics": [
+                  "android-security",
+                  "api-testing",
+                  "apk",
+                  "cwe",
+                  "devsecops",
+                  "dynamic-analysis",
+                  "ios-security",
+                  "malware-analysis",
+                  "mastg",
+                  "masvs",
+                  "mobile-security",
+                  "mobsf",
+                  "mstg",
+                  "owasp",
+                  "rest",
+                  "runtime-security",
+                  "static-analysis",
+                  "web-security",
+                  "windows-mobile-security"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2401,12 +4258,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 objection - runtime mobile exploration",
+                "homepage": null,
                 "id": 95770373,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-23T13:40:22Z",
+                "open_issues": 55,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9348
+                "stars": 9350,
+                "topics": [
+                  "android",
+                  "framework",
+                  "frida",
+                  "instrumentation",
+                  "ios",
+                  "mobile",
+                  "pentest",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2424,12 +4295,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Vulnerability Management Platform",
+                "homepage": "https://www.faradaysec.com",
                 "id": 14160461,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-20T14:02:24Z",
+                "open_issues": 26,
                 "owner": "infobyte",
                 "repo": "faraday",
-                "stars": 6696
+                "stars": 6697,
+                "topics": [
+                  "appsec",
+                  "burpsuite",
+                  "collaboration",
+                  "continuous-scanning",
+                  "cve",
+                  "cybersecurity",
+                  "devops",
+                  "devsecops",
+                  "infosec",
+                  "nessus",
+                  "nmap",
+                  "orchestration",
+                  "penetration-testing",
+                  "pentesting",
+                  "security",
+                  "security-audit",
+                  "security-automation",
+                  "vulnerability",
+                  "vulnerability-management",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             },
@@ -2440,12 +4337,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReconNess is a platform to allow continuous recon (CR) where you can set up a pipeline of #recon tools (Agents) and trigger it base on schedule or events.",
+                "homepage": "https://www.reconness.com",
                 "id": 229349109,
                 "language": "C#",
-                "last_commit": "2026-08-23T15:12:08Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:39:58Z",
+                "open_issues": 22,
                 "owner": "reconness",
                 "repo": "reconness",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "bugbounty",
+                  "pentesting",
+                  "platform",
+                  "recon",
+                  "redteam",
+                  "tools",
+                  "vulnerable-targets"
+                ]
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2463,12 +4373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.",
+                "homepage": null,
                 "id": 51669870,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-07T06:49:50Z",
+                "open_issues": 30,
                 "owner": "djadmin",
                 "repo": "awesome-bug-bounty",
-                "stars": 5874
+                "stars": 5876,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:54.311Z"
             }
@@ -2482,15 +4397,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:19:54.311Z",
+    "last_updated": "2026-08-29T04:16:53.628Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "homepage": "https://astrosp.github.io/osint-web/",
       "id": 537300699,
       "language": "Shell",
+      "license": "GPL-3.0",
       "last_commit": "2026-08-12T17:03:11Z",
+      "open_issues": 33,
       "owner": "Astrosp",
       "repo": "Awesome-OSINT-List",
-      "stars": 4312
+      "stars": 4319,
+      "topics": [
+        "ai",
+        "ai-tools",
+        "awesome-list",
+        "bug-bounty",
+        "cybersecurity",
+        "information-gathering",
+        "osint",
+        "pentest",
+        "recon",
+        "red-team",
+        "reverse-search",
+        "security-tools",
+        "threat-intelligence"
+      ]
     },
     "original_repository_sha": "52e9d80985ebc0ba3a16388a858c93ec7e200b77",
     "enhanced_repository": "enhansome/enhansome-Awesome-OSINT-List",
