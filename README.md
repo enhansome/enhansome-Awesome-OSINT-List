@@ -51,8 +51,8 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 
 Data Leak, scam, username, domain, social
 
-* [dangerzone](https://github.com/freedomofpress/dangerzone) ⭐ 5,749 | 🐛 204 | 🌐 Python | 📅 2026-09-14 - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
-* [Tookie-osint](https://github.com/alfredredbird/tookie-osint) ⭐ 2,932 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+* [dangerzone](https://github.com/freedomofpress/dangerzone) ⭐ 5,750 | 🐛 198 | 🌐 Python | 📅 2026-09-15 - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
+* [Tookie-osint](https://github.com/alfredredbird/tookie-osint) ⭐ 2,933 | 🐛 0 | 🌐 Python | 📅 2026-09-15 - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 * [Chiasmodon](https://github.com/chiasmod0n/chiasmodon) ⭐ 698 | 🐛 3 | 🌐 Python | 📅 2025-05-10 - Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
 * [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
 * [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
@@ -136,9 +136,9 @@ Data Leak, scam, username, domain, social
 
 #### LLM Vulnerability Testing
 
-* [Garak](https://github.com/leondz/garak) ⭐ 9,242 | 🐛 429 | 🌐 Python | 📅 2026-09-09 - LLM vulnerability scanner for probing language models.
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,122 | 🐛 229 | 🌐 Python | 📅 2026-09-14 - Toolkit for adding programmable guardrails to LLM applications.
-* [AI Exploits](https://github.com/protectai/ai-exploits) ⭐ 1,746 | 🐛 3 | 🌐 Python | 📅 2024-10-23 - Collection of real-world AI/ML exploits and vulnerabilities.
+* [Garak](https://github.com/leondz/garak) ⭐ 9,261 | 🐛 434 | 🌐 Python | 📅 2026-09-09 - LLM vulnerability scanner for probing language models.
+* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,137 | 🐛 230 | 🌐 Python | 📅 2026-09-15 - Toolkit for adding programmable guardrails to LLM applications.
+* [AI Exploits](https://github.com/protectai/ai-exploits) ⭐ 1,747 | 🐛 3 | 🌐 Python | 📅 2024-10-23 - Collection of real-world AI/ML exploits and vulnerabilities.
 * [Rebuff](https://github.com/protectai/rebuff) ⚠️ Archived - Prompt injection detector for LLM applications.
 * [LLM Fuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 380 | 🐛 3 | 🌐 Python | 📅 2024-02-12 - Fuzzing framework for finding vulnerabilities in LLMs.
 * [PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived - Python Risk Identification Toolkit for generative AI by Microsoft.
@@ -149,8 +149,8 @@ Data Leak, scam, username, domain, social
 #### AI Red Teaming & Adversarial Testing
 
 * [CleverHans](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,451 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 - Library for benchmarking ML systems' vulnerability to adversarial examples.
-* [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,225 | 🐛 28 | 🌐 Python | 📅 2025-12-12 - Python library for adversarial machine learning.
-* [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,474 | 🐛 20 | 🌐 Python | 📅 2026-08-15 - Framework for adversarial attacks in NLP.
+* [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,228 | 🐛 28 | 🌐 Python | 📅 2025-12-12 - Python library for adversarial machine learning.
+* [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,473 | 🐛 20 | 🌐 Python | 📅 2026-08-15 - Framework for adversarial attacks in NLP.
 * [Foolbox](https://github.com/bethgelab/foolbox) ⭐ 2,973 | 🐛 29 | 🌐 Python | 📅 2025-12-03 - Python toolbox to create adversarial examples.
 * [Gandalf by Lakera](https://gandalf.lakera.ai/) - Game for testing prompt injection techniques.
 * [Prompt Injection Playground](https://greshake.github.io/) - Interactive playground for testing prompt injections.
@@ -159,14 +159,14 @@ Data Leak, scam, username, domain, social
 #### AI Model Security & Privacy
 
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,034 | 🐛 136 | 🌐 Python | 📅 2026-08-26 - Library for training ML models with differential privacy.
-* [Counterfit](https://github.com/Azure/counterfit) ⭐ 938 | 🐛 26 | 🌐 Python | 📅 2025-07-18 - Generic automation layer for assessing security of ML models.
+* [Counterfit](https://github.com/Azure/counterfit) ⭐ 939 | 🐛 26 | 🌐 Python | 📅 2025-07-18 - Generic automation layer for assessing security of ML models.
 * [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 726 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 - Tool to audit data privacy in statistical and ML algorithms.
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived - Privacy testing library for deep learning systems.
 * [Opacus](https://opacus.ai/) - Library for training PyTorch models with differential privacy.
 
 #### AI/ML Model Analysis
 
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,486 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-15 - Visualizer for neural network, deep learning, and ML models.
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,488 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-16 - Visualizer for neural network, deep learning, and ML models.
 * [Manifold](https://github.com/uber/manifold) ⭐ 1,672 | 🐛 84 | 🌐 JavaScript | 📅 2025-02-05 - Model-agnostic visual debugging tool for ML.
 * [TensorBoard](https://www.tensorflow.org/tensorboard) - TensorFlow's visualization toolkit.
 * [What-If Tool](https://pair-code.github.io/what-if-tool/) - Interactive visual interface for ML model analysis.
@@ -190,13 +190,13 @@ Data Leak, scam, username, domain, social
 #### AI/ML Dataset Security
 
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ⚠️ Archived - Streamlines model documentation for transparency.
-* [Model Signing](https://github.com/sigstore/model-transparency) ⭐ 244 | 🐛 50 | 🌐 Python | 📅 2026-09-14 - Supply chain security for ML models.
+* [Model Signing](https://github.com/sigstore/model-transparency) ⭐ 244 | 🐛 49 | 🌐 Python | 📅 2026-09-14 - Supply chain security for ML models.
 * [Hugging Face Security](https://huggingface.co/docs/hub/security) - Security features and scanning on Hugging Face Hub.
 * [AI BOM](https://aibom.org/) - AI Bill of Materials for tracking AI system components.
 
 #### Research & Education
 
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,376 | 🐛 31 | 📅 2024-08-19 - ML tools and resources for cybersecurity.
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,380 | 🐛 31 | 📅 2024-08-19 - ML tools and resources for cybersecurity.
 * [AI Safety Papers](https://www.alignmentforum.org/) - Forum for AI alignment and safety research.
 * [AI Security Conference Papers](https://www.papersdigest.org/tag/ai-security/) - Academic papers on AI security.
 * [ML Security Reading List](https://github.com/0xRadi/AI-ML-Security-Reading-List) - Curated reading list for AI/ML security.
@@ -211,31 +211,31 @@ Data Leak, scam, username, domain, social
 
 Tools for Image/Audio/Video/Doc reconnaissance
 
-* [web-check](https://github.com/Lissy93/web-check) ⭐ 34,808 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-14 - All-in-one OSINT tool for analysing any website.
-* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 31,194 | 🐛 97 | 🌐 Go | 📅 2026-09-14 - Fast vulnerability scanner based on simple YAML templates.
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,111 | 🐛 325 | 🌐 Python | 📅 2026-04-13 - Automated OSINT collection tool with 200+ modules for reconnaissance.
-* [Katana](https://github.com/projectdiscovery/katana) ⭐ 17,509 | 🐛 23 | 🌐 Go | 📅 2026-09-14 - Next-generation crawling and spidering framework.
-* [ffuf](https://github.com/ffuf/ffuf) ⭐ 16,676 | 🐛 234 | 🌐 Go | 📅 2026-09-09 - Fast web fuzzer written in Go.
-* [Amass](https://github.com/owasp-amass/amass) ⭐ 15,161 | 🐛 242 | 🌐 Go | 📅 2026-07-19 - In-depth attack surface mapping and asset discovery tool.
-* [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,428 | 🐛 8 | 🌐 Go | 📅 2026-09-14 - Fast passive subdomain enumeration tool.
-* [Gobuster](https://github.com/OJ/gobuster) ⭐ 14,115 | 🐛 24 | 🌐 Go | 📅 2026-09-09 - Directory/file, DNS and VHost busting tool.
-* [Photon](https://github.com/s0md3v/Photon) ⭐ 13,205 | 🐛 61 | 🌐 Python | 📅 2026-09-04 - Incredibly fast crawler designed for OSINT.
-* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,394 | 🐛 8 | 🌐 Go | 📅 2026-09-14 - Fast and multi-purpose HTTP toolkit for probing web servers.
-* [Reconftw](https://github.com/six2dez/reconftw) ⭐ 8,110 | 🐛 7 | 🌐 Shell | 📅 2026-09-05 - Automated reconnaissance tool combining multiple OSINT tools.
-* [Feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,068 | 🐛 38 | 🌐 Rust | 📅 2026-09-05 - Fast, simple, recursive content discovery tool.
-* [Osmedeus](https://github.com/j3ssie/osmedeus) ⭐ 6,563 | 🐛 3 | 🌐 Go | 📅 2026-09-12 - Osmedeus is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
-* [Arjun](https://github.com/s0md3v/Arjun) ⭐ 6,399 | 🐛 24 | 🌐 Python | 📅 2025-02-20 - HTTP parameter discovery tool.
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,913 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - Full-featured web reconnaissance framework written in Python.
-* [gau](https://github.com/lc/gau) ⭐ 5,091 | 🐛 35 | 🌐 Go | 📅 2026-03-20 - Fetch known URLs from AlienVault, Wayback Machine, and Common Crawl.
+* [web-check](https://github.com/Lissy93/web-check) ⭐ 34,827 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-14 - All-in-one OSINT tool for analysing any website.
+* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 31,232 | 🐛 102 | 🌐 Go | 📅 2026-09-15 - Fast vulnerability scanner based on simple YAML templates.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,164 | 🐛 318 | 🌐 Python | 📅 2026-04-13 - Automated OSINT collection tool with 200+ modules for reconnaissance.
+* [Katana](https://github.com/projectdiscovery/katana) ⭐ 17,512 | 🐛 23 | 🌐 Go | 📅 2026-09-14 - Next-generation crawling and spidering framework.
+* [ffuf](https://github.com/ffuf/ffuf) ⭐ 16,682 | 🐛 234 | 🌐 Go | 📅 2026-09-09 - Fast web fuzzer written in Go.
+* [Amass](https://github.com/owasp-amass/amass) ⭐ 15,168 | 🐛 242 | 🌐 Go | 📅 2026-07-19 - In-depth attack surface mapping and asset discovery tool.
+* [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,436 | 🐛 6 | 🌐 Go | 📅 2026-09-15 - Fast passive subdomain enumeration tool.
+* [Gobuster](https://github.com/OJ/gobuster) ⭐ 14,121 | 🐛 24 | 🌐 Go | 📅 2026-09-09 - Directory/file, DNS and VHost busting tool.
+* [Photon](https://github.com/s0md3v/Photon) ⭐ 13,209 | 🐛 60 | 🌐 Python | 📅 2026-09-04 - Incredibly fast crawler designed for OSINT.
+* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,399 | 🐛 8 | 🌐 Go | 📅 2026-09-14 - Fast and multi-purpose HTTP toolkit for probing web servers.
+* [Reconftw](https://github.com/six2dez/reconftw) ⭐ 8,112 | 🐛 7 | 🌐 Shell | 📅 2026-09-05 - Automated reconnaissance tool combining multiple OSINT tools.
+* [Feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,067 | 🐛 38 | 🌐 Rust | 📅 2026-09-05 - Fast, simple, recursive content discovery tool.
+* [Osmedeus](https://github.com/j3ssie/osmedeus) ⭐ 6,566 | 🐛 4 | 🌐 Go | 📅 2026-09-12 - Osmedeus is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
+* [Arjun](https://github.com/s0md3v/Arjun) ⭐ 6,397 | 🐛 24 | 🌐 Python | 📅 2025-02-20 - HTTP parameter discovery tool.
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,915 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - Full-featured web reconnaissance framework written in Python.
+* [gau](https://github.com/lc/gau) ⭐ 5,093 | 🐛 35 | 🌐 Go | 📅 2026-03-20 - Fetch known URLs from AlienVault, Wayback Machine, and Common Crawl.
 * [waybackurls](https://github.com/tomnomnom/waybackurls) ⭐ 4,560 | 🐛 48 | 🌐 Go | 📅 2024-05-01 - Fetch all URLs that the Wayback Machine knows about for a domain.
-* [ivre](https://github.com/ivre/ivre) ⭐ 4,144 | 🐛 52 | 🌐 Python | 📅 2026-09-10 - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
-* [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 4,022 | 🐛 14 | 🌐 Python | 📅 2026-04-21 - High performance offensive security tool for reconnaissance and vulnerability scanning.
+* [ivre](https://github.com/ivre/ivre) ⭐ 4,146 | 🐛 52 | 🌐 Python | 📅 2026-09-10 - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
+* [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 4,023 | 🐛 14 | 🌐 Python | 📅 2026-04-21 - High performance offensive security tool for reconnaissance and vulnerability scanning.
 * [Findomain](https://github.com/Findomain/Findomain) ⭐ 3,795 | 🐛 4 | 🌐 Rust | 📅 2026-09-14 - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
   <br>
-* [FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,634 | 🐛 26 | 🌐 C# | 📅 2022-12-08 - Tool to find metadata and hidden information in the documents.
+* [FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,633 | 🐛 26 | 🌐 C# | 📅 2022-12-08 - Tool to find metadata and hidden information in the documents.
 * [log4j-scan](https://github.com/fullhunt/log4j-scan) ⭐ 3,421 | 🐛 34 | 🌐 Python | 📅 2022-11-23 - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 * [ParamSpider](https://github.com/devanshbatham/ParamSpider) ⭐ 3,171 | 🐛 38 | 🌐 Python | 📅 2026-03-07 - Mining parameters from dark corners of web archives.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 937 | 🐛 2 | 🌐 Python | 📅 2026-09-08 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 940 | 🐛 2 | 🌐 Python | 📅 2026-09-08 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 * [WebSift](https://github.com/s-r-e-e-r-a-j/WebSift) ⭐ 580 | 🐛 0 | 🌐 Shell | 📅 2026-02-24 - Web reconnaissance tool for gathering information about websites.
 * [FaceCheck](https://facecheck.id/) - Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
 * [Odin](https://search.odin.io/) - A Internet Scanning, Thread hunting tool. Can used for domain, ip, port, cve...
@@ -342,8 +342,8 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## TOOLSET
 
-* [mitaka](https://github.com/ninoseki/mitaka) ⭐ 1,856 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-10 - A browser extension for OSINT search
-* [Seekr](https://github.com/seekr-osint/seekr) ⭐ 870 | 🐛 65 | 🌐 Go | 📅 2026-06-16 - All-In-One OSINT tool with neat web interface
+* [mitaka](https://github.com/ninoseki/mitaka) ⭐ 1,858 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-10 - A browser extension for OSINT search
+* [Seekr](https://github.com/seekr-osint/seekr) ⭐ 873 | 🐛 65 | 🌐 Go | 📅 2026-06-16 - All-In-One OSINT tool with neat web interface
 * [NullSec Linux](https://github.com/bad-antics/nullsec-linux) ⭐ 84 | 🐛 2 | 🌐 Shell | 📅 2026-04-17 - Security-focused Linux distribution with 135+ pre-configured OSINT and security tools for penetration testing and reconnaissance.
 * [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 * [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
@@ -484,7 +484,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## DOWNLOADER
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 191,258 | 🐛 2,652 | 🌐 Python | 📅 2026-08-30 - Command-line program to download videos from YouTube.com and other video sites
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 191,485 | 🐛 2,652 | 🌐 Python | 📅 2026-08-30 - Command-line program to download videos from YouTube.com and other video sites
 * [SaveTheVideo](https://savethevideo.com/) - Online video downloader for many sites including YouTube.
 * [Media-downloader.net](https://media-downloader.net/) -
 * [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) - A Pure client-side webapp to download entire or parts of Imgur albums.
@@ -549,11 +549,11 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## RESOURCES
 
-* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 29,462 | 🐛 15 | 📅 2026-09-09 - A curated list of amazingly awesome OSINT
+* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 29,565 | 🐛 18 | 📅 2026-09-09 - A curated list of amazingly awesome OSINT
 * [sinwindie/OSINT](https://github.com/sinwindie/OSINT) ⭐ 3,741 | 🐛 8 | 🌐 Python | 📅 2023-06-30 - Collections of tools and methods created to aid in OSINT collection
 * [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,914 | 🐛 1 | 📅 2025-06-29 - A curated list of resources for Image and Video Deblurring
 * [Ph055a OSINT\_Collection](https://github.com/Ph055a/OSINT_Collection) ⚠️ Archived - Maintained collection of OSINT related resources. (All Free & Actionable)
-* [QueryTool](https://github.com/oryon-osint/querytool) ⭐ 320 | 🐛 2 | 🌐 HTML | 📅 2026-08-14 - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more.
+* [QueryTool](https://github.com/oryon-osint/querytool) ⭐ 321 | 🐛 2 | 🌐 HTML | 📅 2026-08-14 - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more.
 * ~~[Sprp77/My-Google-CSE](https://github.com/Sprp77/My-Google-CSE/blob/master/List%201) ⭐ 34 | 🐛 0 | 📅 2020-04-07~~
 * [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - This page is for anyone who loves open source investigating, and feels overwhelmed by the amount of resources and information out there. This is my personal one-stop shop for the best OSINT content available online, and I hope it helps you find new ways to learn from some amazing people
 * [OSINT Resources in Canada](https://start.me/p/aLe0vp/osint-resources-in-canada) - OSINT Resources in Canada. This is a free resource dedicated to open source tools located in the different provinces and territories in Canada
@@ -638,12 +638,12 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## THREAT INTEL
 
-* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 11,046 | 🐛 209 | 🌐 Python | 📅 2026-09-15 - Generic signature format for SIEM systems.
-* [OpenCTI](https://github.com/OpenCTI-Platform/opencti) ⭐ 9,994 | 🐛 2,156 | 🌐 TypeScript | 📅 2026-09-15 - Open cyber threat intelligence platform.
-* [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,716 | 🐛 75 | 🌐 Python | 📅 2026-09-14 - manage your Threat Intelligence at scale
-* [YETI](https://github.com/yeti-platform/yeti) ⭐ 2,028 | 🐛 55 | 🌐 Python | 📅 2026-09-14 - Your everyday threat intelligence platform.
-* [APTnotes](https://github.com/aptnotes/data) ⭐ 1,814 | 🐛 32 | 📅 2024-12-16 - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
-* [C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) ⭐ 741 | 🐛 2 | 🌐 REXX | 📅 2026-09-15 - C2 intelligence feeds for threat hunting.
+* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 11,047 | 🐛 209 | 🌐 Python | 📅 2026-09-15 - Generic signature format for SIEM systems.
+* [OpenCTI](https://github.com/OpenCTI-Platform/opencti) ⭐ 10,003 | 🐛 2,162 | 🌐 TypeScript | 📅 2026-09-16 - Open cyber threat intelligence platform.
+* [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,719 | 🐛 76 | 🌐 Python | 📅 2026-09-15 - manage your Threat Intelligence at scale
+* [YETI](https://github.com/yeti-platform/yeti) ⭐ 2,029 | 🐛 55 | 🌐 Python | 📅 2026-09-14 - Your everyday threat intelligence platform.
+* [APTnotes](https://github.com/aptnotes/data) ⭐ 1,815 | 🐛 32 | 📅 2024-12-16 - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
+* [C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) ⭐ 741 | 🐛 2 | 🌐 REXX | 📅 2026-09-16 - C2 intelligence feeds for threat hunting.
 * [defend.network](https://defend.network) - Free, no-login cyber threat intelligence with daily threat briefings and weekly vulnerability reports; every CVE cross-checked against NVD and the CISA KEV catalog, structured by threat type, industry, and severity
 * [ThreatCluster](https://threatcluster.io/) - Reporting from 20,000+ sources clustered into one record per incident, with every source that covered it; includes validated IOCs, CVE data and ransomware leak-site victims. Free API key, no card.
 * [Threatbutt](https://threatbutt.com/map/) - Threatbutt Internet Hacking Attack Attribution Map
@@ -753,10 +753,10 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## USERNAME
 
-* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 91,565 | 🐛 341 | 🌐 Python | 📅 2026-09-15 - Hunt down social media accounts by username across social networks
-* [Blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 8,098 | 🐛 16 | 🌐 Python | 📅 2025-07-13 - OSINT tool to search for accounts by username across social networks.
-* [user-scanner](https://github.com/kaifcodec/user-scanner) ⭐ 4,786 | 🐛 10 | 🌐 Python | 📅 2026-09-13 - Check a username's presence across popular dev/social/creator sites and games
-* [snoop](https://github.com/snooppr/snoop) ⭐ 4,030 | 🐛 1 | 🌐 Python | 📅 2026-09-08 - Snoop Project One of the most promising OSINT tools to search for nicknames. Over 4000+ sites (THE BEST ONE)
+* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 91,638 | 🐛 344 | 🌐 Python | 📅 2026-09-16 - Hunt down social media accounts by username across social networks
+* [Blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 8,173 | 🐛 16 | 🌐 Python | 📅 2025-07-13 - OSINT tool to search for accounts by username across social networks.
+* [user-scanner](https://github.com/kaifcodec/user-scanner) ⭐ 4,799 | 🐛 10 | 🌐 Python | 📅 2026-09-15 - Check a username's presence across popular dev/social/creator sites and games
+* [snoop](https://github.com/snooppr/snoop) ⭐ 4,031 | 🐛 1 | 🌐 Python | 📅 2026-09-08 - Snoop Project One of the most promising OSINT tools to search for nicknames. Over 4000+ sites (THE BEST ONE)
 * [Nexfil](https://github.com/thewhiteh4t/nexfil) ⭐ 2,616 | 🐛 8 | 🌐 Python | 📅 2023-09-30 - OSINT tool for finding profiles by username.
 * [namechk](https://namechk.com/) - Check available username across 30 domain 90 social sites.
 * [Phantom Finder (iOS)](https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372) - Mobile reverse username search with direct profile links.
@@ -787,15 +787,15 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## EMAIL
 
-* [Ghunt](https://github.com/mxrch/GHunt) ⭐ 19,557 | 🐛 76 | 🌐 Python | 📅 2026-04-10 - Offensive Google framework to extract information from Google accounts.
-* [mosint](https://github.com/alpkeskin/mosint) ⭐ 6,023 | 🐛 26 | 🌐 Go | 📅 2024-02-02 - Automated e-mail OSINT tool for gathering information about email addresses.
-* [user-scanner](https://github.com/kaifcodec/user-scanner.git) ⭐ 4,786 | 🐛 10 | 🌐 Python | 📅 2026-09-13 - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
+* [Ghunt](https://github.com/mxrch/GHunt) ⭐ 19,563 | 🐛 76 | 🌐 Python | 📅 2026-04-10 - Offensive Google framework to extract information from Google accounts.
+* [mosint](https://github.com/alpkeskin/mosint) ⭐ 6,024 | 🐛 26 | 🌐 Go | 📅 2024-02-02 - Automated e-mail OSINT tool for gathering information about email addresses.
+* [user-scanner](https://github.com/kaifcodec/user-scanner.git) ⭐ 4,799 | 🐛 10 | 🌐 Python | 📅 2026-09-15 - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
 * [email2phonenumber](https://github.com/martinvigo/email2phonenumber) ⭐ 2,764 | 🐛 9 | 🌐 Python | 📅 2024-07-26 - A OSINT tool to obtain a target's phone number just by having his email address
-* [WhatBreach](https://github.com/Ekultek/WhatBreach) ⭐ 1,677 | 🐛 16 | 🌐 Python | 📅 2025-08-14 - OSINT tool to find breached emails, databases, pastes, and relevant information
-* [Crosslinked](https://github.com/m8sec/CrossLinked) ⭐ 1,592 | 🐛 11 | 🌐 Python | 📅 2024-11-26 - LinkedIn enumeration to extract employee names for email generation.
-* [buster](https://github.com/sham00n/buster) ⭐ 1,412 | 🐛 34 | 🌐 Python | 📅 2020-03-26 - An advanced tool for email reconnaissance
-* [MailAccess](https://github.com/KatrielMoses/MailAccess) ⭐ 1,362 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - All-in-one email OSINT tool. Checks 800+ platforms via Holehe, WhatsMyName, and user-scanner, with breach detection, Hudson Rock infostealer intel, and identity clustering.
-* [Mailcat](https://github.com/sharsil/mailcat) ⭐ 942 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Find email addresses of a person from their username.
+* [WhatBreach](https://github.com/Ekultek/WhatBreach) ⭐ 1,679 | 🐛 16 | 🌐 Python | 📅 2025-08-14 - OSINT tool to find breached emails, databases, pastes, and relevant information
+* [Crosslinked](https://github.com/m8sec/CrossLinked) ⭐ 1,591 | 🐛 11 | 🌐 Python | 📅 2024-11-26 - LinkedIn enumeration to extract employee names for email generation.
+* [buster](https://github.com/sham00n/buster) ⭐ 1,411 | 🐛 34 | 🌐 Python | 📅 2020-03-26 - An advanced tool for email reconnaissance
+* [MailAccess](https://github.com/KatrielMoses/MailAccess) ⭐ 1,376 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - All-in-one email OSINT tool. Checks 800+ platforms via Holehe, WhatsMyName, and user-scanner, with breach detection, Hudson Rock infostealer intel, and identity clustering.
+* [Mailcat](https://github.com/sharsil/mailcat) ⭐ 940 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Find email addresses of a person from their username.
 * [Email Lookup](https://epieos.com/) - The ultimate OSINT tool for email and phone reverse lookup
 * [EmailFinder](https://snov.io/email-finder) - Find any company mail
 * [holehe](https://pypi.org/project/holehe/) - holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.
@@ -843,8 +843,8 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## PHONE
 
-* [GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 15,063 | 🐛 115 | 🌐 Python | 📅 2024-01-11 - Useful tool to track location or mobile number.
-* [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,088 | 🐛 3 | 🌐 Python | 📅 2026-09-09 - Moriarty Project is a powerful web based phone number investigation tool. It has 6 features and it allows you to choose either all features, or the features you like
+* [GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 15,071 | 🐛 115 | 🌐 Python | 📅 2024-01-11 - Useful tool to track location or mobile number.
+* [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,089 | 🐛 3 | 🌐 Python | 📅 2026-09-09 - Moriarty Project is a powerful web based phone number investigation tool. It has 6 features and it allows you to choose either all features, or the features you like
 * [CallSpy](https://callspy.profiler.me/) - Get real-time details about any phone number from our 10+ sources, including Truecaller, Eyecon, CallApp, and many more
 * [PhoneInfoga](https://sundowndev.github.io/phoneinfoga/) - PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number, then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 * [Phonerator](https://www.martinvigo.com/tools/phonerator/) - An advanced valid phone number generator.
@@ -887,9 +887,9 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 # Awesome SOCIAL MEDIA with stars
 
-* [trape](https://github.com/jofpin/trape) ⭐ 9,001 | 🐛 255 | 🌐 Python | 📅 2024-06-20 - People tracker on the Internet: OSINT analysis and research tool.
+* [trape](https://github.com/jofpin/trape) ⭐ 9,003 | 🐛 255 | 🌐 Python | 📅 2024-06-20 - People tracker on the Internet: OSINT analysis and research tool.
   <br>
-* [Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) ⭐ 1,977 | 🐛 18 | 📅 2026-01-30 - A collection of most useful osint tools for SOCINT.
+* [Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) ⭐ 1,979 | 🐛 18 | 📅 2026-01-30 - A collection of most useful osint tools for SOCINT.
 * [Who posted what?](https://whopostedwhat.com/) - whopostedwhat.com is a non public Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
 * [SOCMINT](https://start.me/p/Wp1kpe/socmint) - some of the best tools
 * [SocialMap](https://vincos.it/world-map-of-social-networks/) - World map of social media.
@@ -1019,7 +1019,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 * [Google Finder](https://tools.epieos.com/google-account.php) - Find out google info like name by email id
 * [Google Social Search](https://www.social-searcher.com/google-social-search/) - Top Social Networks Search Results Dashboard
 * [Google+ & LinkedIn](https://one-plus.github.io/G+Link) - search by fields
-* [GHunt](https://github.com/mxrch/GHunt) ⭐ 19,557 | 🐛 76 | 🌐 Python | 📅 2026-04-10 - Offensive Google framework.
+* [GHunt](https://github.com/mxrch/GHunt) ⭐ 19,563 | 🐛 76 | 🌐 Python | 📅 2026-04-10 - Offensive Google framework.
 * [Google+ Photo Custom Search](https://cse.google.com/cse/publicurl?cx=006205189065513216365:uo99tr1fxjq) - custom google search
   <br>
 
@@ -1041,7 +1041,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 * ~~[Discord User Search](https://discordhub.com/user/search)~~ - 502
 * [Discord Me](https://discord.me/) - Public Discord Servers and Bots
 * [Discord History Tracker](https://dht.chylex.com/) - Discord History Tracker lets you save chat history in your servers, groups, and private conversations, and view it offline.
-* [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT) ⭐ 597 | 🐛 0 | 📅 2024-08-08 - This repository contains useful resources to conduct research and OSINT investigations on Discord accounts ,servers and bots
+* [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT) ⭐ 598 | 🐛 0 | 📅 2024-08-08 - This repository contains useful resources to conduct research and OSINT investigations on Discord accounts ,servers and bots
 * [DiscordServers](https://discordservers.com/) - Public Discord servers you may like
 * [DISBOARD](https://disboard.org/) - Disboard is the place where you can list/find Discord servers.
 * [Discord ID Lookup](https://discord.id/) - Unofficial discord lookup
@@ -1072,13 +1072,13 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 ## INSTAGRAM
 
-* [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,409 | 🐛 2 | 🌐 Python | 📅 2026-09-14 - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
-* [toutatis](https://github.com/megadose/toutatis) ⭐ 4,282 | 🐛 346 | 🌐 Python | 📅 2024-12-05 - Extract information from Instagram accounts such as e-mails, phone numbers and more.
+* [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,419 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+* [toutatis](https://github.com/megadose/toutatis) ⭐ 4,286 | 🐛 346 | 🌐 Python | 📅 2024-12-05 - Extract information from Instagram accounts such as e-mails, phone numbers and more.
   <br>
-* [yesitsme](https://github.com/blackeko/yesitsme) ⭐ 3,059 | 🐛 26 | 🌐 Python | 📅 2024-08-17 - Simple OSINT script to find Instagram profiles by name and e-mail/phone
+* [yesitsme](https://github.com/blackeko/yesitsme) ⭐ 3,061 | 🐛 26 | 🌐 Python | 📅 2024-08-17 - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 * [osi.ig](https://github.com/th3unkn0n/osi.ig) ⭐ 1,562 | 🐛 52 | 🌐 Python | 📅 2024-02-01 - Information Gathering Instagram.
 * [SoIG](https://github.com/yezz123/SoIG) ⭐ 423 | 🐛 6 | 🌐 Python | 📅 2026-06-28 - OSINT Tool gets a range of information from an Instagram account
-* [insto](https://github.com/subzeroid/insto) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2026-09-07 - Interactive Instagram OSINT CLI (REPL + one-shot) with watch/diff snapshots and Maltego-ready CSV/JSON export; pluggable HikerAPI/aiograpi backends.
+* [insto](https://github.com/subzeroid/insto) ⭐ 112 | 🐛 0 | 🌐 Python | 📅 2026-09-07 - Interactive Instagram OSINT CLI (REPL + one-shot) with watch/diff snapshots and Maltego-ready CSV/JSON export; pluggable HikerAPI/aiograpi backends.
 * [insta-dl](https://github.com/subzeroid/insta-dl) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-09-01 - Async Instagram downloader CLI for profiles, posts, reels, stories, highlights, hashtags, and comments with JSON metadata, original timestamps, and pluggable HikerAPI/aiograpi backends.
 * [InstaHunt](https://instahunt.co/) - InstaHunt shows you Instagram places and posts surrounding the chosen geographic location
 * [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy) - custom instagram deep photo search
@@ -1445,9 +1445,9 @@ custom made google search engine for perticular fields
 
 ## METADATA & FILE ANALYSIS
 
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,340 | 🐛 92 | 🌐 Rust | 📅 2026-08-11 - Firmware analysis tool for embedded file extraction.
-* [FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,634 | 🐛 26 | 🌐 C# | 📅 2022-12-08 - Metadata analysis tool for documents and files.
-* [Metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,318 | 🐛 19 | 🌐 Python | 📅 2024-03-21 - Metadata harvester from public documents.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,342 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Firmware analysis tool for embedded file extraction.
+* [FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,633 | 🐛 26 | 🌐 C# | 📅 2022-12-08 - Metadata analysis tool for documents and files.
+* [Metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,317 | 🐛 19 | 🌐 Python | 📅 2024-03-21 - Metadata harvester from public documents.
 * [MetaClean](https://github.com/Moresyl/metaclean) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-13 - Open-source desktop tool for inspecting and removing metadata locally from images, PDFs, Office documents, and text files.
 * [ExifTool](https://exiftool.org/) - Platform-independent library and command-line application for reading, writing and editing meta information.
 * [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - Detailed EXIF data viewer for photos.
@@ -1505,6 +1505,7 @@ custom made google search engine for perticular fields
 
 ## MARITIME
 
+* [ArcNautical](https://arcnautical.com/check) - Free vessel sanctions check by IMO number against the OFAC, EU, UK and UN lists, with an ownership-opacity score and a vetting grade; no account required
 * [Marine Traffic](https://www.marinetraffic.com/) - seaways / marine live map
 * [VesselFinder](https://www.vesselfinder.com/) - Free AIS Ship Tracker - VesselFinder
 * [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1) - Article on Maritime Intelligence Gathering
@@ -1526,7 +1527,7 @@ custom made google search engine for perticular fields
 * [SlideShare Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f) - custom google search
 * [Document Search](https://one-plus.github.io/DocumentSearch) - To use the document search tools, please insert a name or company into the relevant boxes
 * [Pdfsearch.io](https://www.pdfsearch.io/) - Document Search Engine - browse more than 18 million document
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,955 | 🐛 158 | 📅 2026-09-14 - A topic-centric list of HQ open datasets.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,973 | 🐛 158 | 📅 2026-09-15 - A topic-centric list of HQ open datasets.
 * [Drivesearch.kwebpia.net](http://drivesearch.kwebpia.net/) - You can quickly and easily search for videos, lyrics, songs, knowledge, medical, science associated with the file. Supports the following topics: Google Drvie, Google Docs, All web search, Video, Lyrics, Knowledge, Movie, Health, Medical, Science, Pandora, Last.fm, SoundCloud...
 * [Filepursuit.com](https://filepursuit.com/) - Search the web for files, videos, audios, eBooks & much more
 * [Open Directory Search](http://eyeofjustice.com/od/) - Open Directory Search Portal
@@ -1554,7 +1555,7 @@ custom made google search engine for perticular fields
 
 ## SOURCE CODES
 
-* [Shhgit](https://github.com/eth0izzle/shhgit) ⭐ 3,982 | 🐛 33 | 🌐 JavaScript | 📅 2025-02-28 - Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories
+* [Shhgit](https://github.com/eth0izzle/shhgit) ⭐ 3,983 | 🐛 33 | 🌐 JavaScript | 📅 2025-02-28 - Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories
 * [git-hound](https://github.com/tillson/git-hound) ⭐ 1,458 | 🐛 4 | 🌐 Go | 📅 2026-02-10 - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 * [Zen](https://github.com/s0md3v/Zen) ⭐ 601 | 🐛 3 | 🌐 Python | 📅 2019-05-05 - Find emails of Github users
 * [Pastes Search Engine](https://cse.google.com/cse?cx=661713d0371832a02) - custom google search
@@ -1636,7 +1637,7 @@ custom made google search engine for perticular fields
 * [Reverse Domain](https://osint.sh/domain/) - Allow you to find domain names by a keyword
 * [IANA — Root Zone Database](https://www.iana.org/domains/root/db) - The Root Zone Database represents the delegation details of top-level domains, including gTLDs such as .com, and country-code TLDs such as .uk. As the manager of the DNS root zone, we are responsible for coordinating these delegations in accordance with our policies and procedures.
 * [Punkspider](https://punkspider.org/) - Searching for vulnerable websites is coming back soon! Are you new to web security and have no idea what the heck we're talking about
-* [metabigor](https://github.com/j3ssie/metabigor) ⭐ 1,817 | 🐛 2 | 🌐 Go | 📅 2026-08-08 - OSINT tools and more but without API key
+* [metabigor](https://github.com/j3ssie/metabigor) ⭐ 1,818 | 🐛 2 | 🌐 Go | 📅 2026-08-08 - OSINT tools and more but without API key
 * [DomainIntel](https://domainintel.onrender.com) - Real-time domain intelligence API (RDAP, DNS-over-HTTPS, Certificate Transparency, bulk lookups). Free tier.
 * [urldna](https://urldna.io) - Gather info about URL: ssl cert, ip, header, metadat ...
 * [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains and malicious files collected from a network of honeypots
@@ -1672,7 +1673,7 @@ custom made google search engine for perticular fields
 ## MALWARE
 
 * [theZoo](https://github.com/ytisf/theZoo) ⭐ 13,384 | 🐛 88 | 🌐 Python | 📅 2026-09-14 - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,814 | 🐛 32 | 📅 2024-12-16 - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
+* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,815 | 🐛 32 | 📅 2024-12-16 - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 * [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers) ⚠️ Archived - The legacy Exploit Database paper repository
 * [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.
 * [Interactive Online Malware Analysis Sandbox](https://app.any.run/) - check malware for free. With our online malware analysis tools you can research malicious files and URLs and get result with incredible
@@ -1890,8 +1891,8 @@ custom made google search engine for perticular fields
 
 ## DARKNET
 
-* [robin](https://github.com/apurvsinghgautam/robin) ⭐ 7,143 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - AI-Powered Dark Web OSINT Tool for investigation and analysis.
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,871 | 🐛 9 | 🌐 Python | 📅 2026-09-04 - Dark Web OSINT Tool for crawling and analyzing Tor network.
+* [robin](https://github.com/apurvsinghgautam/robin) ⭐ 7,151 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - AI-Powered Dark Web OSINT Tool for investigation and analysis.
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,882 | 🐛 8 | 🌐 Python | 📅 2026-09-04 - Dark Web OSINT Tool for crawling and analyzing Tor network.
 * [OnionScan](https://github.com/s-rah/onionscan) ⭐ 3,301 | 🐛 86 | 🌐 Go | 📅 2024-08-09 - Tool for investigating hidden services on Tor network.
 * [onionland](https://onionland.io/) - search engine for onion sites
 * [Danex.io](http://danex.io/) - Dark web search Engine tool.
@@ -2275,8 +2276,8 @@ custom made google search engine for perticular fields
 
 ### Browser Extensions
 
-* [Mitaka](https://github.com/ninoseki/mitaka) ⭐ 1,856 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-10 - Browser extension for OSINT searches on selected text.
-* [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) ⭐ 1,554 | 🐛 13 | 🌐 Python | 📅 2023-10-23 - Chrome extension for performing OSINT searches.
+* [Mitaka](https://github.com/ninoseki/mitaka) ⭐ 1,858 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-10 - Browser extension for OSINT searches on selected text.
+* [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) ⭐ 1,555 | 🐛 13 | 🌐 Python | 📅 2023-10-23 - Chrome extension for performing OSINT searches.
 * [Hunchly](https://www.hunch.ly/) - Web capture tool for online investigations (paid).
 * [User-Agent Switcher](https://add0n.com/useragent-switcher.html) - Change browser user agent for testing.
 * [Gotanda](https://github.com/NINOSUKI/Gotanda) - Browser extension for OSINT and security investigations.
@@ -2349,8 +2350,8 @@ custom made google search engine for perticular fields
 
 ### Web Security Testing
 
-* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,182 | 🐛 94 | 🌐 Python | 📅 2025-04-26 - Advanced XSS detection and exploitation suite.
-* [Commix](https://github.com/commixproject/commix) ⭐ 5,844 | 🐛 4 | 🌐 Python | 📅 2026-09-15 - Automated OS command injection and exploitation tool.
+* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,181 | 🐛 94 | 🌐 Python | 📅 2025-04-26 - Advanced XSS detection and exploitation suite.
+* [Commix](https://github.com/commixproject/commix) ⭐ 5,846 | 🐛 4 | 🌐 Python | 📅 2026-09-16 - Automated OS command injection and exploitation tool.
 * [NoSQLMap](https://github.com/codingo/NoSQLMap) ⭐ 3,352 | 🐛 1 | 🌐 Python | 📅 2026-07-28 - Automated NoSQL database enumeration and exploitation.
 * [Burp Suite](https://portswigger.net/burp) - Industry-standard web application security testing toolkit.
 * [OWASP ZAP](https://www.zaproxy.org/) - Open-source web application security scanner.
@@ -2376,21 +2377,21 @@ custom made google search engine for perticular fields
 
 ### Reconnaissance & Enumeration
 
-* [Amass](https://github.com/owasp-amass/amass) ⭐ 15,161 | 🐛 242 | 🌐 Go | 📅 2026-07-19 - In-depth attack surface mapping and asset discovery.
-* [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,428 | 🐛 8 | 🌐 Go | 📅 2026-09-14 - Fast passive subdomain enumeration tool.
+* [Amass](https://github.com/owasp-amass/amass) ⭐ 15,168 | 🐛 242 | 🌐 Go | 📅 2026-07-19 - In-depth attack surface mapping and asset discovery.
+* [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,436 | 🐛 6 | 🌐 Go | 📅 2026-09-15 - Fast passive subdomain enumeration tool.
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,041 | 🐛 254 | 🌐 Python | 📅 2024-08-02 - Fast subdomains enumeration tool.
 * [Knock](https://github.com/guelfoweb/knock) ⭐ 4,198 | 🐛 72 | 🌐 Python | 📅 2026-02-19 - Python tool to enumerate subdomains.
 * [Assetfinder](https://github.com/tomnomnom/assetfinder) ⭐ 3,680 | 🐛 43 | 🌐 Go | 📅 2024-06-07 - Find domains and subdomains related to a given domain.
 * [MassDNS](https://github.com/blechschmidt/massdns) ⭐ 3,646 | 🐛 14 | 🌐 C | 📅 2026-04-15 - High-performance DNS stub resolver.
 * [DNSRecon](https://github.com/darkoperator/dnsrecon) ⭐ 3,069 | 🐛 2 | 🌐 Python | 📅 2026-08-17 - DNS enumeration and scanning tool.
-* [Fierce](https://github.com/mschwager/fierce) ⭐ 1,813 | 🐛 9 | 🌐 Python | 📅 2024-08-28 - DNS reconnaissance tool for locating non-contiguous IP space.
+* [Fierce](https://github.com/mschwager/fierce) ⭐ 1,814 | 🐛 9 | 🌐 Python | 📅 2024-08-28 - DNS reconnaissance tool for locating non-contiguous IP space.
 * [Shuffledns](https://github.com/projectdiscovery/shuffledns) ⭐ 1,672 | 🐛 4 | 🌐 Go | 📅 2026-09-14 - Wrapper around massdns for subdomain bruteforcing.
 * [Chaos](https://chaos.projectdiscovery.io/) - Project Discovery's internet-wide asset dataset.
 
 ### Vulnerability Scanning
 
-* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 31,194 | 🐛 97 | 🌐 Go | 📅 2026-09-14 - Fast vulnerability scanner based on YAML templates.
-* [Nikto](https://github.com/sullo/nikto) ⭐ 10,725 | 🐛 1 | 🌐 Perl | 📅 2026-09-15 - Web server scanner for dangerous files and outdated software.
+* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 31,232 | 🐛 102 | 🌐 Go | 📅 2026-09-15 - Fast vulnerability scanner based on YAML templates.
+* [Nikto](https://github.com/sullo/nikto) ⭐ 10,728 | 🐛 1 | 🌐 Perl | 📅 2026-09-15 - Web server scanner for dangerous files and outdated software.
 * [OpenVAS](https://www.openvas.org/) - Open-source vulnerability scanner and management solution.
 * [Nessus](https://www.tenable.com/products/nessus) - Comprehensive vulnerability assessment solution.
 * [Acunetix](https://www.acunetix.com/) - Automated web application security scanner.
@@ -2405,17 +2406,17 @@ custom made google search engine for perticular fields
 
 ### Content Discovery & Fuzzing
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,516 | 🐛 8 | 🌐 PHP | 📅 2026-09-14 - Collection of multiple types of lists for security assessments.
-* [ffuf](https://github.com/ffuf/ffuf) ⭐ 16,676 | 🐛 234 | 🌐 Go | 📅 2026-09-09 - Fast web fuzzer written in Go.
-* [Dirsearch](https://github.com/maurosoria/dirsearch) ⭐ 14,721 | 🐛 23 | 🌐 Python | 📅 2026-09-15 - Web path scanner and directory brute-forcing tool.
-* [Gobuster](https://github.com/OJ/gobuster) ⭐ 14,115 | 🐛 24 | 🌐 Go | 📅 2026-09-09 - Directory/file, DNS and VHost busting tool.
-* [Feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,068 | 🐛 38 | 🌐 Rust | 📅 2026-09-05 - Fast, simple, recursive content discovery tool.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,544 | 🐛 8 | 🌐 PHP | 📅 2026-09-15 - Collection of multiple types of lists for security assessments.
+* [ffuf](https://github.com/ffuf/ffuf) ⭐ 16,682 | 🐛 234 | 🌐 Go | 📅 2026-09-09 - Fast web fuzzer written in Go.
+* [Dirsearch](https://github.com/maurosoria/dirsearch) ⭐ 14,728 | 🐛 24 | 🌐 Python | 📅 2026-09-16 - Web path scanner and directory brute-forcing tool.
+* [Gobuster](https://github.com/OJ/gobuster) ⭐ 14,121 | 🐛 24 | 🌐 Go | 📅 2026-09-09 - Directory/file, DNS and VHost busting tool.
+* [Feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,067 | 🐛 38 | 🌐 Rust | 📅 2026-09-05 - Fast, simple, recursive content discovery tool.
 * [Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,578 | 🐛 117 | 🌐 Python | 📅 2026-01-21 - Web application fuzzer for brute-forcing.
 * [DirBuster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project) - OWASP multi-threaded directory and file brute-forcing application.
 
 ### API Security Testing
 
-* [Arjun](https://github.com/s0md3v/Arjun) ⭐ 6,399 | 🐛 24 | 🌐 Python | 📅 2025-02-20 - HTTP parameter discovery tool.
+* [Arjun](https://github.com/s0md3v/Arjun) ⭐ 6,397 | 🐛 24 | 🌐 Python | 📅 2025-02-20 - HTTP parameter discovery tool.
 * [Kiterunner](https://github.com/assetnote/kiterunner) ⭐ 3,262 | 🐛 51 | 🌐 Go | 📅 2026-07-10 - API endpoint and content discovery tool.
 * [ParamSpider](https://github.com/devanshbatham/ParamSpider) ⭐ 3,171 | 🐛 38 | 🌐 Python | 📅 2026-03-07 - Mining parameters from dark corners of web archives.
 * [Postman](https://www.postman.com/) - API platform for building and testing APIs.
@@ -2431,15 +2432,15 @@ custom made google search engine for perticular fields
 
 ### Mobile Security
 
-* [Jadx](https://github.com/skylot/jadx) ⭐ 50,466 | 🐛 446 | 🌐 Java | 📅 2026-09-12 - Dex to Java decompiler for Android applications.
-* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,771 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-09 - Automated mobile application security testing framework.
-* [Objection](https://github.com/sensepost/objection) ⭐ 9,387 | 🐛 57 | 🌐 Python | 📅 2026-07-23 - Runtime mobile exploration toolkit powered by Frida.
+* [Jadx](https://github.com/skylot/jadx) ⭐ 50,478 | 🐛 448 | 🌐 Java | 📅 2026-09-12 - Dex to Java decompiler for Android applications.
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,779 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-09 - Automated mobile application security testing framework.
+* [Objection](https://github.com/sensepost/objection) ⭐ 9,390 | 🐛 58 | 🌐 Python | 📅 2026-07-23 - Runtime mobile exploration toolkit powered by Frida.
 * [Frida](https://frida.re/) - Dynamic instrumentation toolkit for reverse engineering.
 * [APKTool](https://ibotpeaches.github.io/Apktool/) - Tool for reverse engineering Android APK files.
 
 ### Reporting & Collaboration
 
-* [Faraday](https://github.com/infobyte/faraday) ⭐ 6,745 | 🐛 15 | 🌐 Python | 📅 2026-09-04 - Collaborative penetration test and vulnerability management platform.
+* [Faraday](https://github.com/infobyte/faraday) ⭐ 6,746 | 🐛 15 | 🌐 Python | 📅 2026-09-04 - Collaborative penetration test and vulnerability management platform.
 * [Reconness](https://github.com/reconness/reconness) ⭐ 328 | 🐛 25 | 🌐 C# | 📅 2026-09-09 - Web application for continuous reconnaissance.
 * [PlexTrac](https://plextrac.com/) - Pentest reporting and collaboration platform.
 * [Dradis](https://dradisframework.com/) - Open-source collaboration and reporting platform for security teams.
@@ -2462,4 +2463,4 @@ custom made google search engine for perticular fields
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
