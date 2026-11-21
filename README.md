@@ -1443,6 +1443,7 @@ custom made google search engine for perticular fields
 ### Image
 
 * [Image verification assisant](https://mever.gr/forensics/) - Image verification assistant helps you to analyse the varacity of online media.
+* [CheckThatPhoto](https://checkthatphoto.com/) - Check an image for signs of AI generation and review the limits of the result.
 * [Google Images](https://images.google.com/) - Google image search.
 * [Yandex Images](https://yandex.com/images/) - Yandex Image search.
 * [Bing Images](https://www.bing.com/images) - Bing Image search.
